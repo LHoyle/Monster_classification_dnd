@@ -1,0 +1,123 @@
+name,url,cr,type,size,ac,hp,speed,align,legendary,source,str,dex,con,int,wis,cha
+giff,,3,humanoid,Medium,16,60,,lawful neutral,,Mordenkainen's Tome of Foes,,,,,,
+yochlol,,10,"fiend (demon, shapechanger)",Medium,15,136,,chaotic evil,,Monster Manual,,,,,,
+scorpion,https://www.aidedd.org/dnd/monstres.php?vo=scorpion,0,beast,Tiny,11,1,,unaligned,,Monster Manual (SRD),2.0,11.0,8.0,1.0,8.0,2.0
+tyrannosaurus-rex,https://www.aidedd.org/dnd/monstres.php?vo=tyrannosaurus-rex,8,beast,Huge,13,136,,unaligned,,Monster Manual (SRD),25.0,10.0,19.0,2.0,12.0,9.0
+raven,https://www.aidedd.org/dnd/monstres.php?vo=raven,0,beast,Tiny,12,1,fly,unaligned,,Monster Manual (SRD),2.0,14.0,8.0,2.0,12.0,6.0
+panther,https://www.aidedd.org/dnd/monstres.php?vo=panther,1/4,beast,Medium,12,13,,unaligned,,Monster Manual (SRD),14.0,15.0,10.0,3.0,14.0,7.0
+warrior-lvl-2,,0,humanoid (any race),Medium,16,19,,any alignment,,Essentials Kit,,,,,,
+shambling-mound,https://www.aidedd.org/dnd/monstres.php?vo=shambling-mound,5,plant,Large,15,136,swim,unaligned,,Monster Manual (SRD),18.0,8.0,16.0,5.0,10.0,5.0
+ancient-silver-dragon,https://www.aidedd.org/dnd/monstres.php?vo=ancient-silver-dragon,23,dragon,Gargantuan,22,487,fly,lawful good,Legendary,Monster Manual (SRD),30.0,10.0,29.0,18.0,15.0,23.0
+archdruid,,12,humanoid (any race),Medium,16,132,,any alignment,,Volo's Guide to Monsters,,,,,,
+githzerai-zerth,,6,humanoid (gith),Medium,17,84,,lawful neutral,,Monster Manual,,,,,,
+flesh-golem,https://www.aidedd.org/dnd/monstres.php?vo=flesh-golem,5,construct,Medium,9,93,,neutral,,Monster Manual (SRD),19.0,9.0,18.0,6.0,10.0,5.0
+deathlock,,4,undead,Medium,12,36,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+bugbear,https://www.aidedd.org/dnd/monstres.php?vo=bugbear,1,humanoid (goblinoid),Medium,16,27,,chaotic evil,,Monster Manual (SRD),15.0,14.0,13.0,8.0,11.0,9.0
+lizard-king-queen,https://www.aidedd.org/dnd/monstres.php?vo=lizard-king-queen,4,humanoid (lizardfolk),Medium,15,78,swim,chaotic evil,,Monster Manual (BR),17.0,12.0,15.0,11.0,11.0,15.0
+stone-giant,https://www.aidedd.org/dnd/monstres.php?vo=stone-giant,7,giant,Huge,17,126,,neutral,,Monster Manual (SRD),23.0,15.0,20.0,10.0,12.0,9.0
+spellcaster-mage-lvl-1,,0,humanoid (any race),Medium,12,9,,any alignment,,Essentials Kit,,,,,,
+chuul,https://www.aidedd.org/dnd/monstres.php?vo=chuul,4,aberration,Large,16,93,swim,chaotic evil,,Monster Manual (SRD),19.0,10.0,16.0,5.0,11.0,5.0
+swarm-of-quippers,https://www.aidedd.org/dnd/monstres.php?vo=swarm-of-quippers,1,swarm of Tiny beasts,Medium,13,28,swim,unaligned,,Monster Manual (SRD),13.0,16.0,9.0,1.0,7.0,2.0
+spellcaster-mage-lvl-6,,0,humanoid (any race),Medium,12,31,,any alignment,,Essentials Kit,,,,,,
+jarlaxle-baenre,,15,humanoid (elf),Medium,24,123,,chaotic neutral,,Adventures (Dragon Heist),,,,,,
+planetar,https://www.aidedd.org/dnd/monstres.php?vo=planetar,16,celestial,Large,19,200,fly,lawful good,,Monster Manual (SRD),24.0,20.0,24.0,19.0,22.0,25.0
+crag-cat,,1,beast,Large,13,34,,unaligned,,Adventures (Storm King's Thunder),,,,,,
+noble,https://www.aidedd.org/dnd/monstres.php?vo=noble,1/8,humanoid (any race),Medium,15,9,,any alignment,,Monster Manual (SRD),11.0,12.0,11.0,12.0,14.0,16.0
+cloud-giant-smiling-one,,11,giant (cloud giant),Huge,15,262,,chaotic neutral,,Volo's Guide to Monsters,,,,,,
+duergar-mind-master,,2,humanoid (dwarf),Medium,14,39,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+myconid-sovereign,,2,plant,Large,13,60,,lawful neutral,,Monster Manual,,,,,,
+expert-lvl-3,,0,humanoid (any race),Medium,14,22,,any alignment,,Essentials Kit,,,,,,
+imix,,19,elemental,Huge,17,325,fly,neutral evil,,Adventures (Princes of the Apocalypse),,,,,,
+abjurer,,9,humanoid (any race),Medium,12,84,,any alignment,,Volo's Guide to Monsters,,,,,,
+sword-wraith-warrior,,3,undead,Medium,16,45,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+skeleton,https://www.aidedd.org/dnd/monstres.php?vo=skeleton,1/4,undead,Medium,13,13,,lawful evil,,Monster Manual (SRD),10.0,14.0,15.0,6.0,8.0,5.0
+ancient-blue-dragon,https://www.aidedd.org/dnd/monstres.php?vo=ancient-blue-dragon,23,dragon,Gargantuan,22,481,fly,lawful evil,Legendary,Monster Manual (SRD),29.0,10.0,27.0,18.0,17.0,21.0
+quetzalcoatlus,https://www.aidedd.org/dnd/monstres.php?vo=quetzalcoatlus,2,beast,Huge,13,30,fly,unaligned,,Volo's Guide to Monsters,15.0,13.0,13.0,2.0,10.0,5.0
+horned-devil,https://www.aidedd.org/dnd/monstres.php?vo=horned-devil,11,fiend (devil),Large,18,178,fly,lawful evil,,Monster Manual (SRD),22.0,17.0,21.0,12.0,16.0,17.0
+awakened-tree,https://www.aidedd.org/dnd/monstres.php?vo=awakened-tree,2,plant,Huge,13,59,,unaligned,,Monster Manual (SRD),19.0,6.0,15.0,10.0,10.0,7.0
+the-lost,,7,monstrosity,Medium,15,78,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+gnoll-hunter,,1/2,humanoid (gnoll),Medium,13,22,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+jackal,https://www.aidedd.org/dnd/monstres.php?vo=jackal,0,beast,Small,12,3,,unaligned,,Monster Manual (SRD),8.0,15.0,11.0,3.0,12.0,6.0
+owl,https://www.aidedd.org/dnd/monstres.php?vo=owl,0,beast,Tiny,11,1,fly,unaligned,,Monster Manual (SRD),3.0,13.0,8.0,2.0,12.0,7.0
+yuan-ti-broodguard,,2,humanoid (yuan-ti),Medium,14,45,,neutral evil,,Volo's Guide to Monsters,,,,,,
+quickling,,1,fey,Tiny,16,10,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+meenlock,,2,fey,Small,15,31,,neutral evil,,Volo's Guide to Monsters,,,,,,
+female-steeder,,1,monstrosity,Large,14,30,,unaligned,,Mordenkainen's Tome of Foes,,,,,,
+orog,https://www.aidedd.org/dnd/monstres.php?vo=orog,2,humanoid (orc),Medium,18,42,,chaotic evil,,Monster Manual (BR),18.0,12.0,18.0,12.0,11.0,12.0
+dragon-turtle,https://www.aidedd.org/dnd/monstres.php?vo=dragon-turtle,17,dragon,Gargantuan,20,341,swim,neutral,,Monster Manual (SRD),25.0,10.0,20.0,10.0,12.0,12.0
+duergar-soulblade,,1,humanoid (dwarf),Medium,14,18,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+veteran,https://www.aidedd.org/dnd/monstres.php?vo=veteran,3,humanoid (any race),Medium,17,58,,any alignment,,Monster Manual (SRD),16.0,13.0,14.0,10.0,11.0,10.0
+tribal-warrior,https://www.aidedd.org/dnd/monstres.php?vo=tribal-warrior,1/8,humanoid (any race),Medium,12,11,,any alignment,,Monster Manual (SRD),13.0,11.0,12.0,8.0,11.0,8.0
+expert-lvl-5,,0,humanoid (any race),Medium,14,33,,any alignment,,Essentials Kit,,,,,,
+adult-blue-dragon,https://www.aidedd.org/dnd/monstres.php?vo=adult-blue-dragon,16,dragon,Huge,19,225,fly,lawful evil,Legendary,Monster Manual (SRD),25.0,10.0,23.0,16.0,15.0,19.0
+lamia,https://www.aidedd.org/dnd/monstres.php?vo=lamia,4,monstrosity,Large,13,97,,chaotic evil,,Monster Manual (SRD),16.0,13.0,15.0,14.0,15.0,16.0
+girallon,,4,monstrosity,Large,13,59,,unaligned,,Volo's Guide to Monsters,,,,,,
+chitine,,1/2,monstrosity,Small,14,18,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+draegloth,,7,fiend (demon),Large,15,123,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+air-elemental-myrmidon,,7,elemental,Medium,18,117,fly,neutral,,Mordenkainen's Tome of Foes,,,,,,
+berserker,https://www.aidedd.org/dnd/monstres.php?vo=berserker,2,humanoid (any race),Medium,13,67,,any chaotic alignment,,Monster Manual (SRD),16.0,12.0,17.0,9.0,11.0,9.0
+animated-armor,https://www.aidedd.org/dnd/monstres.php?vo=animated-armor,1,construct,Medium,18,33,,unaligned,,Monster Manual (SRD),14.0,11.0,13.0,1.0,3.0,1.0
+vampiric-mist,,3,undead,Medium,13,30,fly,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+winter-wolf,https://www.aidedd.org/dnd/monstres.php?vo=winter-wolf,3,monstrosity,Large,13,75,,neutral evil,,Monster Manual (SRD),18.0,13.0,14.0,7.0,12.0,8.0
+swarm-of-poisonous-snakes,https://www.aidedd.org/dnd/monstres.php?vo=swarm-of-poisonous-snakes,2,swarm of Tiny beasts,Medium,14,36,swim,unaligned,,Monster Manual (SRD),8.0,18.0,11.0,1.0,10.0,3.0
+frog,https://www.aidedd.org/dnd/monstres.php?vo=frog,0,beast,Tiny,11,1,swim,unaligned,,Monster Manual (SRD),1.0,13.0,8.0,1.0,8.0,3.0
+earth-elemental-myrmidon,,7,elemental,Medium,18,127,,neutral,,Mordenkainen's Tome of Foes,,,,,,
+earth-elemental,https://www.aidedd.org/dnd/monstres.php?vo=earth-elemental,5,elemental,Large,17,126,,neutral,,Monster Manual (SRD),20.0,8.0,20.0,5.0,10.0,5.0
+cat,https://www.aidedd.org/dnd/monstres.php?vo=cat,0,beast,Tiny,12,2,,unaligned,,Monster Manual (SRD),3.0,15.0,10.0,3.0,12.0,7.0
+lizard,https://www.aidedd.org/dnd/monstres.php?vo=lizard,0,beast,Tiny,10,2,,unaligned,,Monster Manual (SRD),2.0,11.0,10.0,1.0,8.0,3.0
+hobgoblin-devastator,,4,humanoid (goblinoid),Medium,13,45,,lawful evil,,Volo's Guide to Monsters,,,,,,
+fomorian,,8,giant,Huge,14,149,,chaotic evil,,Monster Manual,,,,,,
+vegepygmy,,1/4,plant,Small,13,9,,neutral,,Volo's Guide to Monsters,,,,,,
+ancient-brass-dragon,https://www.aidedd.org/dnd/monstres.php?vo=ancient-brass-dragon,20,dragon,Gargantuan,20,297,fly,chaotic good,Legendary,Monster Manual (SRD),27.0,10.0,25.0,16.0,15.0,19.0
+pony,https://www.aidedd.org/dnd/monstres.php?vo=pony,1/8,beast,Medium,10,11,,unaligned,,Monster Manual (SRD),15.0,10.0,13.0,2.0,11.0,7.0
+rat,https://www.aidedd.org/dnd/monstres.php?vo=rat,0,beast,Tiny,10,1,,unaligned,,Monster Manual (SRD),2.0,11.0,9.0,2.0,10.0,4.0
+barbed-devil,https://www.aidedd.org/dnd/monstres.php?vo=barbed-devil,5,fiend (devil),Medium,15,110,,lawful evil,,Monster Manual (SRD),16.0,17.0,18.0,12.0,14.0,14.0
+giant-rat,https://www.aidedd.org/dnd/monstres.php?vo=giant-rat,1/8,beast,Small,12,7,,unaligned,,Monster Manual (SRD),7.0,15.0,11.0,2.0,10.0,4.0
+frost-giant,https://www.aidedd.org/dnd/monstres.php?vo=frost-giant,8,giant,Huge,15,138,,neutral evil,,Monster Manual (SRD),23.0,9.0,21.0,9.0,10.0,12.0
+nalfeshnee,https://www.aidedd.org/dnd/monstres.php?vo=nalfeshnee,13,fiend (demon),Large,18,184,fly,chaotic evil,,Monster Manual (SRD),21.0,10.0,22.0,19.0,12.0,15.0
+couatl,https://www.aidedd.org/dnd/monstres.php?vo=couatl,4,celestial,Medium,19,97,fly,lawful good,,Monster Manual (SRD),16.0,20.0,17.0,18.0,20.0,18.0
+galeb-duhr,https://www.aidedd.org/dnd/monstres.php?vo=galeb-duhr,6,elemental,Medium,16,85,,neutral,,Monster Manual (BR),20.0,14.0,20.0,11.0,12.0,11.0
+expert-lvl-2,,0,humanoid (any race),Medium,14,16,,any alignment,,Essentials Kit,,,,,,
+bugbear-chief,,3,humanoid (goblinoid),Medium,17,65,,chaotic evil,,Monster Manual,,,,,,
+young-brass-dragon,https://www.aidedd.org/dnd/monstres.php?vo=young-brass-dragon,6,dragon,Large,17,110,fly,chaotic good,,Monster Manual (SRD),19.0,10.0,17.0,12.0,11.0,15.0
+wyvern,https://www.aidedd.org/dnd/monstres.php?vo=wyvern,6,dragon,Large,13,110,fly,unaligned,,Monster Manual (SRD),19.0,10.0,16.0,5.0,12.0,6.0
+giant-four-armed-gargoyle,,10,elemental,Large,17,147,fly,chaotic evil,,Adventures (Tomb of Annihilation),,,,,,
+ki-rin,,12,celestial,Huge,20,152,fly,lawful good,Legendary,Volo's Guide to Monsters,,,,,,
+star-spawn-hulk,,10,aberration,Large,16,136,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+drow-matron-mother,,20,humanoid (elf),Medium,17,262,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+mantrap,,1,plant,Large,12,45,,unaligned,,Adventures (Tomb of Annihilation),,,,,,
+ghost,https://www.aidedd.org/dnd/monstres.php?vo=ghost,4,undead,Medium,11,45,fly,any alignment,,Monster Manual (SRD),7.0,13.0,10.0,10.0,12.0,17.0
+giant-toad,https://www.aidedd.org/dnd/monstres.php?vo=giant-toad,1,beast,Large,11,39,swim,unaligned,,Monster Manual (SRD),15.0,13.0,13.0,2.0,10.0,3.0
+ice-devil,https://www.aidedd.org/dnd/monstres.php?vo=ice-devil,14,fiend (devil),Large,18,180,,lawful evil,,Monster Manual (SRD),21.0,14.0,18.0,18.0,15.0,18.0
+eagle,https://www.aidedd.org/dnd/monstres.php?vo=eagle,0,beast,Small,12,3,fly,unaligned,,Monster Manual (SRD),6.0,15.0,10.0,2.0,14.0,7.0
+merrow,https://www.aidedd.org/dnd/monstres.php?vo=merrow,2,monstrosity,Large,13,45,swim,chaotic evil,,Monster Manual (SRD),18.0,10.0,15.0,8.0,10.0,9.0
+kobold-dragonshield,,1,humanoid (kobold),Small,15,44,,lawful evil,,Volo's Guide to Monsters,,,,,,
+orc,https://www.aidedd.org/dnd/monstres.php?vo=orc,1/2,humanoid (orc),Medium,13,15,,chaotic evil,,Monster Manual (SRD),16.0,12.0,16.0,7.0,11.0,10.0
+nagpa,,17,humanoid (nagpa),Medium,19,187,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+mammoth,https://www.aidedd.org/dnd/monstres.php?vo=mammoth,6,beast,Huge,13,126,,unaligned,,Monster Manual (SRD),24.0,9.0,21.0,3.0,11.0,6.0
+acolyte,https://www.aidedd.org/dnd/monstres.php?vo=acolyte,1/4,humanoid (any race),Medium,10,9,,any alignment,,Monster Manual (SRD),10.0,10.0,10.0,10.0,14.0,11.0
+ancient-white-dragon,https://www.aidedd.org/dnd/monstres.php?vo=ancient-white-dragon,20,dragon,Gargantuan,20,333,"fly, swim",chaotic evil,Legendary,Monster Manual (SRD),26.0,10.0,26.0,10.0,13.0,14.0
+tortle-druid,,2,humanoid (tortle),Medium,17,33,,lawful neutral,,Mordenkainen's Tome of Foes,,,,,,
+mind-flayer,,7,aberration,Medium,15,71,,lawful evil,,Monster Manual,,,,,,
+quaggoth-spore-servant,,1,plant,Medium,13,45,,unaligned,,Monster Manual,,,,,,
+smoke-mephit,https://www.aidedd.org/dnd/monstres.php?vo=smoke-mephit,1/4,elemental,Small,12,22,fly,neutral evil,,Monster Manual (SRD),6.0,14.0,12.0,10.0,10.0,11.0
+yuan-ti-malison,https://www.aidedd.org/dnd/monstres.php?vo=yuan-ti-malison,3,"monstrosity (shapechanger, yuan-ti)",Medium,12,66,,neutral evil,,Monster Manual (BR),16.0,14.0,13.0,14.0,12.0,16.0
+tlincalli,,5,monstrosity,Large,15,85,,neutral evil,,Volo's Guide to Monsters,,,,,,
+stone-golem,https://www.aidedd.org/dnd/monstres.php?vo=stone-golem,10,construct,Large,17,178,,unaligned,,Monster Manual (SRD),22.0,9.0,20.0,3.0,11.0,1.0
+giant-octopus,https://www.aidedd.org/dnd/monstres.php?vo=giant-octopus,1,beast,Large,11,52,swim,unaligned,,Monster Manual (SRD),17.0,13.0,13.0,4.0,10.0,4.0
+centaur,https://www.aidedd.org/dnd/monstres.php?vo=centaur,2,monstrosity,Large,12,45,,neutral good,,Monster Manual (SRD),18.0,14.0,14.0,9.0,13.0,11.0
+fist-of-bane,,1/2,humanoid (human),Medium,18,22,,lawful evil,,Adventures (Descent into Avernus),,,,,,
+star-spawn-seer,,13,aberration,Medium,17,153,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+wight,https://www.aidedd.org/dnd/monstres.php?vo=wight,3,undead,Medium,14,45,,neutral evil,,Monster Manual (SRD),15.0,14.0,16.0,10.0,13.0,15.0
+giant-goat,https://www.aidedd.org/dnd/monstres.php?vo=giant-goat,1/2,beast,Large,11,19,,unaligned,,Monster Manual (SRD),17.0,11.0,12.0,3.0,12.0,6.0
+neogi-master,,4,aberration,Medium,15,71,,lawful evil,,Volo's Guide to Monsters,,,,,,
+young-black-dragon,https://www.aidedd.org/dnd/monstres.php?vo=young-black-dragon,7,dragon,Large,18,127,"fly, swim",chaotic evil,,Monster Manual (SRD),19.0,14.0,17.0,12.0,11.0,15.0
+efreeti,https://www.aidedd.org/dnd/monstres.php?vo=efreeti,11,elemental,Large,17,200,fly,lawful evil,,Monster Manual (SRD),22.0,12.0,24.0,16.0,15.0,16.0
+solar,https://www.aidedd.org/dnd/monstres.php?vo=solar,21,celestial,Large,21,243,fly,lawful good,Legendary,Monster Manual (SRD),26.0,22.0,26.0,25.0,25.0,30.0
+rutterkin,,2,fiend (demon),Medium,12,37,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+merrenoloth,,3,fiend (yugoloth),Medium,13,40,swim,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+tridrone,,1/2,construct,Medium,15,16,,lawful neutral,,Monster Manual,,,,,,
+hydroloth,,9,fiend (yugoloth),Medium,15,135,swim,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+soul-monger,,11,humanoid (elf),Medium,15,123,,neutral,,Mordenkainen's Tome of Foes,,,,,,
+warlock-of-the-great-old-one,,6,humanoid (any race),Medium,12,91,,any alignment,,Volo's Guide to Monsters,,,,,,
+imp,https://www.aidedd.org/dnd/monstres.php?vo=imp,1,"fiend (devil, shapechanger)",Tiny,13,10,fly,lawful evil,,Monster Manual (SRD),6.0,17.0,13.0,11.0,12.0,14.0

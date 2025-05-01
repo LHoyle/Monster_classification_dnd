@@ -1,0 +1,763 @@
+name,cr,type,size,ac,hp,speed,Walk Speed,Swim Speed,Fly Speed,Climb Speed,Burrow Speed,align,legendary,source,str,dex,con,int,wis,cha
+aarakocra, 1/4,humanoid,Medium,12,13,"walk, fly",20,0,50,0,0,neutral good,,Monster Manual (BR),10,14,10,11,12,11
+abjurer, 1/4,humanoid,Medium,12,84,walk,30,0,0,0,0,any alignment,,Volo's Guide to Monsters,9,14,14,18,12,11
+aboleth,10,aberration,Large,17,135,swim,,,,,,lawful evil,Legendary,Monster Manual (SRD),21,9,15,18,15,18
+abominable-yeti,9,monstrosity,Huge,15,137,"walk, climb",,,,,,chaotic evil,,Monster Manual,24,10,22,9,13,9
+acererak,23,undead,Medium,21,285,walk,,,,,,neutral evil,,Adventures (Tomb of Annihilation),13,16,20,27,21,20
+acolyte, 1/4,humanoid,Medium,10,9,walk,30,0,0,0,0,any alignment,,Monster Manual (SRD),10,10,10,10,14,11
+adult-black-dragon,14,dragon,Huge,19,195,"walk, fly, swim",,,,,,chaotic evil,Legendary,Monster Manual (SRD),23,14,21,14,13,17
+adult-blue-dracolich,17,undead,Huge,19,225,"walk, burrow, fly",,,,,,lawful evil,Legendary,Monster Manual,25,10,23,16,15,19
+adult-blue-dragon,16,dragon,Huge,19,225,"walk, burrow, fly",,,,,,lawful evil,Legendary,Monster Manual (SRD),25,10,23,16,15,19
+adult-brass-dragon,13,dragon,Huge,18,172,"walk, burrow, fly",,,,,,chaotic good,Legendary,Monster Manual (SRD),23,10,21,14,13,17
+adult-bronze-dragon,15,dragon,Huge,19,212,"fly, swim",,,,,,lawful good,Legendary,Monster Manual (SRD),25,10,23,16,15,19
+adult-copper-dragon,14,dragon,Huge,18,184,fly,,,,,,chaotic good,Legendary,Monster Manual (SRD),23,12,21,18,15,17
+adult-gold-dragon,17,dragon,Huge,19,256,"fly, swim",,,,,,lawful good,Legendary,Monster Manual (SRD),27,14,25,16,15,24
+adult-green-dragon,15,dragon,Huge,19,207,"fly, swim",,,,,,lawful evil,Legendary,Monster Manual (SRD),23,12,21,18,15,17
+adult-kruthik,2,monstrosity,Medium,18,39,,,,,,,unaligned,,Mordenkainen's Tome of Foes,,,,,,
+adult-oblex,5,ooze,Medium,14,75,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+adult-red-dragon,17,dragon,Huge,19,256,fly,,,,,,chaotic evil,Legendary,Monster Manual (SRD),27,10,25,16,13,21
+adult-silver-dragon,16,dragon,Huge,19,243,fly,,,,,,lawful good,Legendary,Monster Manual (SRD),27,10,25,16,13,21
+adult-white-dragon,13,dragon,Huge,18,200,"fly, swim",,,,,,chaotic evil,Legendary,Monster Manual (SRD),22,10,22,8,12,12
+air-elemental,5,elemental,Large,15,90,fly,,,,,,neutral,,Monster Manual (SRD),14,20,14,6,10,6
+air-elemental-myrmidon,7,elemental,Medium,18,117,fly,,,,,,neutral,,Mordenkainen's Tome of Foes,,,,,,
+albino-dwarf-warrior,1/4,humanoid,Medium,13,30,walk,25,0,0,0,0,any alignment,,Adventures (Tomb of Annihilation),13,13,17,12,14,11
+aldani,1,monstrosity,Medium,0,0,swim,,,,,,lawful neutral,,Adventures (Tomb of Annihilation),,,,,,
+alhoon,10,undead,Medium,15,120,,,,,,,any evil alignment,,Volo's Guide to Monsters,,,,,,
+alkilith,11,fiend (demon),Medium,17,157,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+allip,5,undead,Medium,13,40,fly,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+allosaurus,2,beast,Large,13,51,,,,,,,unaligned,,Monster Manual (SRD),19,13,17,2,12,5
+ambush-drake,1/2,dragon,Medium,13,22,,,,,,,unaligned,,Adventures (Tyranny of Dragons),,,,,,
+amnizu,18,fiend (devil),Medium,21,202,fly,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+ancient-black-dragon,21,dragon,Gargantuan,22,367,"fly, swim",,,,,,chaotic evil,Legendary,Monster Manual (SRD),27,14,25,16,15,19
+ancient-blue-dragon,23,dragon,Gargantuan,22,481,fly,,,,,,lawful evil,Legendary,Monster Manual (SRD),29,10,27,18,17,21
+ancient-brass-dragon,20,dragon,Gargantuan,20,297,fly,,,,,,chaotic good,Legendary,Monster Manual (SRD),27,10,25,16,15,19
+ancient-bronze-dragon,22,dragon,Gargantuan,22,444,"fly, swim",,,,,,lawful good,Legendary,Monster Manual (SRD),29,10,27,18,17,21
+ancient-copper-dragon,21,dragon,Gargantuan,21,350,fly,,,,,,chaotic good,Legendary,Monster Manual (SRD),27,12,25,20,17,19
+ancient-gold-dragon,24,dragon,Gargantuan,22,546,"fly, swim",,,,,,lawful good,Legendary,Monster Manual (SRD),30,14,29,18,17,28
+ancient-green-dragon,22,dragon,Gargantuan,21,385,"fly, swim",,,,,,lawful evil,Legendary,Monster Manual (SRD),27,12,25,20,17,19
+ancient-red-dragon,24,dragon,Gargantuan,22,546,fly,,,,,,chaotic evil,Legendary,Monster Manual (SRD),30,10,29,18,15,23
+ancient-shadow,1,undead,Medium,13,32,,,,,,,chaotic evil,,Extra (AideDD),6,16,14,6,10,8
+ancient-silver-dragon,23,dragon,Gargantuan,22,487,fly,,,,,,lawful good,Legendary,Monster Manual (SRD),30,10,29,18,15,23
+ancient-white-dragon,20,dragon,Gargantuan,20,333,"fly, swim",,,,,,chaotic evil,Legendary,Monster Manual (SRD),26,10,26,10,13,14
+androsphinx,17,monstrosity,Large,17,199,fly,,,,,,lawful neutral,Legendary,Monster Manual (SRD),22,10,20,16,18,23
+animated-armor,1,construct,Medium,18,33,,,,,,,unaligned,,Monster Manual (SRD),14,11,13,1,3,1
+ankheg,2,monstrosity,Large,14,39,,,,,,,unaligned,,Monster Manual (SRD),17,11,13,1,13,6
+ankylosaurus,3,beast,Huge,15,68,,,,,,,unaligned,,Monster Manual (SRD),19,11,15,2,12,5
+annis-hag,6,fey,Large,17,75,,,,,,,chaotic evil,,Volo's Guide to Monsters,21,12,14,13,14,15
+ape,1/2,beast,Medium,12,19,,,,,,,unaligned,,Monster Manual (SRD),16,14,14,6,12,7
+apprentice-wizard,1/4,humanoid,Medium,10,9,walk,30,0,0,0,0,any alignment,,Volo's Guide to Monsters,10,10,10,14,10,11
+arcanaloth,12,fiend (yugoloth),Medium,17,104,fly,,,,,,neutral evil,,Monster Manual,,,,,,
+archdruid,12,humanoid,Medium,16,132,walk,30,0,0,0,0,any alignment,,Volo's Guide to Monsters,10,14,12,12,20,11
+archer,3,humanoid,Medium,16,75,walk,30,0,0,0,0,any alignment,,Volo's Guide to Monsters,11,18,16,11,13,10
+archmage,12,humanoid,Medium,12,99,walk,30,0,0,0,0,any alignment,,Monster Manual (SRD),10,14,12,20,15,16
+armanite,7,fiend (demon),Large,16,84,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+assassin,8,humanoid,Medium,15,78,walk,30,0,0,0,0,any non-good alignment,,Monster Manual (SRD),11,16,14,13,11,10
+assassin-vine,3,plant,Large,13,85,,,,,,,unaligned,,Adventures (Tomb of Annihilation),,,,,,
+astral-dreadnought,21,monstrosity,Gargantuan,20,297,fly,,,,,,unaligned,Legendary,Mordenkainen's Tome of Foes,28,7,25,5,14,18
+atropal,13,undead,Huge,7,225,fly,,,,,,neutral evil,,Adventures (Tomb of Annihilation),,,,,,
+aurochs,2,beast,Large,11,38,,,,,,,unaligned,,Volo's Guide to Monsters,20,10,19,2,12,5
+autumn-eladrin,10,fey,Medium,19,127,,,,,,,chaotic neutral,,Mordenkainen's Tome of Foes,,,,,,
+awakened-shrub,0,plant,Small,9,10,,,,,,,unaligned,,Monster Manual (SRD),3,8,11,10,10,6
+awakened-tree,2,plant,Huge,13,59,,,,,,,unaligned,,Monster Manual (SRD),19,6,15,10,10,7
+axe-beak,1/4,beast,Large,11,19,,,,,,,unaligned,,Monster Manual (SRD),14,12,12,2,10,5
+azer,2,elemental,Medium,17,39,,,,,,,lawful neutral,,Monster Manual (SRD),17,12,15,12,13,10
+babau,4,fiend (demon),Medium,16,82,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+baboon,0,beast,Small,12,3,,,,,,,unaligned,,Monster Manual (SRD),8,14,11,4,12,6
+badger,0,beast,Tiny,10,3,,,,,,,unaligned,,Monster Manual (SRD),4,11,12,2,12,5
+bael,19,fiend (devil),Large,18,189,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+balhannoth,11,aberration,Large,17,114,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+balor,19,fiend (demon),Huge,19,262,fly,,,,,,chaotic evil,,Monster Manual (SRD),26,15,22,20,16,22
+banderhobb,5,monstrosity,Large,15,84,,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+bandit,1/8,humanoid,Medium,12,11,walk,30,0,0,0,0,any non-lawful alignment,,Monster Manual (SRD),11,12,12,10,10,10
+bandit-captain,2,humanoid,Medium,15,65,walk,30,0,0,0,0,any non-lawful alignment,,Monster Manual (SRD),15,16,14,14,11,14
+banshee,4,undead,Medium,12,58,fly,,,,,,chaotic evil,,Monster Manual (SRD),1,14,10,12,11,17
+baphomet,23,fiend (demon),Huge,22,275,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+barbed-devil,5,fiend (devil),Medium,15,110,,,,,,,lawful evil,,Monster Manual (SRD),16,17,18,12,14,14
+bard,2,humanoid,Medium,15,44,walk,30,0,0,0,0,any alignment,,Volo's Guide to Monsters,11,14,12,10,13,14
+barghest,4,fiend ,Large,17,90,,,,,,,neutral evil,,Volo's Guide to Monsters,19,15,14,13,12,14
+barlgura,5,fiend (demon),Large,15,68,,,,,,,chaotic evil,,Monster Manual (BR),18,15,16,7,14,9
+basilisk,3,monstrosity,Medium,15,52,,,,,,,unaligned,,Monster Manual (SRD),16,8,15,2,8,7
+bat,0,beast,Tiny,12,1,fly,,,,,,unaligned,,Monster Manual (SRD),2,15,8,2,12,4
+bearded-devil,3,fiend (devil),Medium,13,52,,,,,,,lawful evil,,Monster Manual (SRD),16,15,15,9,11,11
+behir,11,monstrosity,Huge,17,168,,,,,,,neutral evil,,Monster Manual (SRD),23,16,18,7,14,12
+beholder,13,aberration,Large,18,180,fly,,,,,,lawful evil,Legendary,Monster Manual,,,,,,
+beholder-zombie,5,undead,Large,15,93,fly,,,,,,neutral evil,,Monster Manual,,,,,,
+belaphoss,20,fiend (demon),Huge,19,262,fly,,,,,,chaotic evil,,Extra (Dragon Mag),26,15,22,20,16,22
+berbalang,2,aberration,Medium,14,38,fly,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+berserker,2,humanoid,Medium,13,67,walk,30,0,0,0,0,any chaotic alignment,,Monster Manual (SRD),16,12,17,9,11,9
+bheur-hag,7,fey,Medium,17,91,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+black-abishai,7,fiend (devil),Medium,15,58,fly,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+black-bear,1/2,beast,Medium,11,19,,,,,,,unaligned,,Monster Manual (SRD),15,10,14,2,12,7
+black-dragon-wyrmling,2,dragon,Medium,17,33,"fly, swim",,,,,,chaotic evil,,Monster Manual (SRD),15,14,13,10,11,13
+black-gauntlet-of-bane,6,humanoid,Medium,16,51,walk,30,0,0,0,0,lawful evil,,Adventures (Descent into Avernus),18,11,18,12,15,18
+black-pudding,4,ooze,Large,7,85,,,,,,,unaligned,,Monster Manual (SRD),16,5,16,1,6,1
+blackguard,8,humanoid,Medium,18,153,walk,30,0,0,0,0,any non-good alignment,,Volo's Guide to Monsters,18,11,18,11,14,15
+blink-dog,1/4,fey,Medium,13,22,,,,,,,lawful good,,Monster Manual (SRD),12,17,12,10,13,11
+blood-hawk,1/8,beast,Small,12,7,fly,,,,,,unaligned,,Monster Manual (SRD),6,14,10,3,14,5
+blue-abishai,17,fiend (devil),Medium,19,195,fly,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+blue-dragon-wyrmling,3,dragon,Medium,17,52,fly,,,,,,lawful evil,,Monster Manual (SRD),17,10,15,12,11,15
+blue-slaad,7,aberration,Large,15,123,,,,,,,chaotic neutral,,Monster Manual,,,,,,
+boar,1/4,beast,Medium,11,11,,,,,,,unaligned,,Monster Manual (SRD),13,11,12,2,9,5
+bodak,6,undead,Medium,15,58,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+boggle,1/8,fey,Small,14,18,,,,,,,chaotic neutral,,Volo's Guide to Monsters,,,,,,
+bone-devil,9,fiend (devil),Large,19,142,fly,,,,,,lawful evil,,Monster Manual (SRD),18,16,18,13,14,16
+bone-naga,4,undead,Large,15,58,,,,,,,lawful evil,,Monster Manual,,,,,,
+boneclaw,12,undead,Large,16,127,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+brass-dragon-wyrmling,1,dragon,Medium,16,16,fly,,,,,,chaotic good,,Monster Manual (SRD),15,10,13,10,11,13
+brontosaurus,5,beast,Gargantuan,15,121,,,,,,,unaligned,,Adventures (Tomb of Annihilation),,,,,,
+bronze-dragon-wyrmling,2,dragon,Medium,17,32,"fly, swim",,,,,,lawful good,,Monster Manual (SRD),17,10,15,12,11,15
+brown-bear,1,beast,Large,11,34,,,,,,,unaligned,,Monster Manual (SRD),19,10,16,2,13,7
+bugbear,1,humanoid,Medium,16,27,walk,30,0,0,0,0,chaotic evil,,Monster Manual (SRD),15,14,13,8,11,9
+bugbear-chief,3,humanoid,Medium,17,65,walk,30,0,0,0,0,chaotic evil,,Monster Manual,17,14,14,11,12,11
+bulette,5,monstrosity,Large,17,94,,,,,,,unaligned,,Monster Manual (SRD),19,11,21,2,10,5
+bulezau,3,fiend (demon),Medium,14,52,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+bullywug,1/4,humanoid,Medium,15,11,"walk, swim",20,40,0,0,0,neutral evil,,Monster Manual (BR),12,12,13,7,10,7
+cadaver-collector,14,construct,Large,17,189,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+cambion,5,fiend,Medium,19,82,fly,,,,,,any evil alignment,,Monster Manual,,,,,,
+camel,1/8,beast,Large,9,15,,,,,,,unaligned,,Monster Manual (SRD),16,8,14,2,8,5
+canoloth,8,fiend (yugoloth),Medium,16,120,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+carrion-crawler,2,monstrosity,Large,13,51,,,,,,,unaligned,,Monster Manual,,,,,,
+cat,0,beast,Tiny,12,2,,,,,,,unaligned,,Monster Manual (SRD),3,15,10,3,12,7
+catoblepas,5,monstrosity,Large,14,84,,,,,,,unaligned,,Volo's Guide to Monsters,,,,,,
+cave-fisher,3,monstrosity,Medium,16,58,,,,,,,unaligned,,Volo's Guide to Monsters,,,,,,
+centaur,2,monstrosity,Large,12,45,,,,,,,neutral good,,Monster Manual (SRD),18,14,14,9,13,11
+chain-devil,8,fiend (devil),Medium,16,85,,,,,,,lawful evil,,Monster Manual (SRD),18,15,18,11,12,14
+champion,9,humanoid,Medium,18,143,,,,,,,any alignment,,Volo's Guide to Monsters,,,,,,
+chasme,6,fiend (demon),Large,15,84,fly,,,,,,chaotic evil,,Monster Manual,,,,,,
+chimera,6,monstrosity,Large,14,114,fly,,,,,,chaotic evil,,Monster Manual (SRD),19,11,19,3,14,10
+chitine,1/2,monstrosity,Small,14,18,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+choker,1,aberration,Small,16,13,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+choldrith,3,monstrosity,Medium,15,66,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+chuul,4,aberration,Large,16,93,swim,,,,,,chaotic evil,,Monster Manual (SRD),19,10,16,5,11,5
+clay-golem,9,construct,Large,14,133,,,,,,,unaligned,,Monster Manual (SRD),20,9,18,3,8,1
+cloaker,8,aberration,Large,14,78,fly,,,,,,chaotic neutral,,Monster Manual (SRD),17,15,12,13,12,14
+cloud-giant,9,giant,Huge,14,200,,,,,,,neutral good ,,Monster Manual (SRD),27,10,22,12,16,16
+cloud-giant-smiling-one,11,giant,Huge,15,262,,,,,,,chaotic neutral,,Volo's Guide to Monsters,,,,,,
+cockatrice,1/2,monstrosity,Small,11,27,fly,,,,,,unaligned,,Monster Manual (SRD),6,12,12,2,13,5
+commoner,0,humanoid,Medium,10,4,,,,,,,any alignment,,Monster Manual (SRD),10,10,10,10,10,10
+conjurer,6,humanoid,Medium,12,40,,,,,,,any alignment,,Volo's Guide to Monsters,,,,,,
+constrictor-snake,1/4,beast,Large,12,13,swim,,,,,,unaligned,,Monster Manual (SRD),15,14,12,1,10,3
+copper-dragon-wyrmling,1,dragon,Medium,16,22,fly,,,,,,chaotic good,,Monster Manual (SRD),15,12,13,14,11,13
+corpse-flower,8,plant,Large,12,127,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+couatl,4,celestial,Medium,19,97,fly,,,,,,lawful good,,Monster Manual (SRD),16,20,17,18,20,18
+cow,1/4,beast,Large,10,15,,,,,,,unaligned,,Volo's Guide to Monsters,18,10,14,2,10,4
+crab,0,beast,Tiny,11,2,swim,,,,,,unaligned,,Monster Manual (SRD),2,11,10,1,8,2
+crag-cat,1,beast,Large,13,34,,,,,,,unaligned,,Adventures (Storm King's Thunder),,,,,,
+cranium-rat,0,beast,Tiny,12,2,,,,,,,lawful evil,,Volo's Guide to Monsters,,,,,,
+crawling-claw,0,undead,Tiny,12,2,,,,,,,neutral evil,,Monster Manual (BR),13,14,11,5,10,4
+crocodile,1/2,beast,Large,12,19,swim,,,,,,unaligned,,Monster Manual (SRD),15,10,13,2,10,5
+crokek-toeck,14,fiend (demon),Gargantuan,15,297,swim,,,,,,chaotic evil,,Adventures (Descent into Avernus),,,,,,
+cult-fanatic,2,humanoid,Medium,13,33,,,,,,,any non-good alignment,,Monster Manual (SRD),11,14,12,10,13,14
+cultist,1/8,humanoid,Medium,12,9,,,,,,,any non-good alignment,,Monster Manual (SRD),11,12,10,10,11,10
+cyclops,6,giant,Huge,14,138,,,,,,,chaotic neutral,,Monster Manual (SRD),22,11,20,8,6,10
+dao,11,elemental,Large,18,187,fly,,,,,,neutral evil,,Monster Manual (BR),23,12,24,12,13,14
+darkling,1/2,fey,Small,14,13,,,,,,,chaotic neutral,,Volo's Guide to Monsters,,,,,,
+darkling-elder,2,fey,Medium,15,27,,,,,,,chaotic neutral,,Volo's Guide to Monsters,,,,,,
+darkmantle,1/2,monstrosity,Small,11,22,fly,,,,,,unaligned,,Monster Manual (SRD),16,12,13,2,10,5
+death-dog,1,monstrosity,Medium,12,39,,,,,,,neutral evil,,Monster Manual (SRD),15,14,14,3,13,6
+death-kiss,10,aberration,Large,16,161,fly,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+death-knight,17,undead,Medium,20,180,,,,,,,chaotic evil,,Monster Manual,,,,,,
+death-slaad,10,aberration ,Medium,18,170,,,,,,,chaotic evil,,Monster Manual,,,,,,
+death-tyrant,14,undead,Large,19,187,fly,,,,,,lawful evil,Legendary,Monster Manual,,,,,,
+death-s-head-of-bhaal,5,humanoid,Medium,15,76,,,,,,,chaotic evil,,Adventures (Descent into Avernus),,,,,,
+deathlock,4,undead,Medium,12,36,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+deathlock-mastermind,8,undead,Medium,13,110,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+deathlock-wight,3,undead,Medium,12,37,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+deep-gnome-svirfneblin,1/2,humanoid,Small,15,16,,,,,,,neutral good,,Monster Manual (SRD),15,14,14,12,10,9
+deep-scion,3,humanoid,Medium,11,67,swim,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+deer,0,beast,Medium,13,4,,,,,,,unaligned,,Monster Manual (SRD),11,16,11,2,14,5
+deinonychus,1,beast,Medium,13,26,,,,,,,unaligned,,Adventures (Tomb of Annihilation),,,,,,
+demilich,18,undead,Tiny,20,80,fly,,,,,,neutral evil,Legendary,Monster Manual,,,,,,
+demogorgon,26,fiend (demon),Huge,22,406,swim,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+derro,1/4,humanoid,Small,13,13,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+derro-savant,3,humanoid,Small,13,36,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+deva,10,celestial,Medium,17,136,fly,,,,,,lawful good,,Monster Manual (SRD),18,18,18,17,20,20
+devilroot,7,plant,Medium,15,105,,,,,,,neutral evil,,Extra (AideDD),17,11,17,12,14,14
+devourer,13,fiend,Large,16,178,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+dhergoloth,7,fiend (yugoloth),Medium,15,119,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+dimetrodon,1/4,beast,Medium,12,19,swim,,,,,,unaligned,,Adventures (Tomb of Annihilation),,,,,,
+dire-troll,13,giant,Huge,15,172,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+dire-wolf,1,beast,Large,14,37,,,,,,,unaligned,,Monster Manual (SRD),17,15,15,3,12,7
+displacer-beast,3,monstrosity,Large,13,85,,,,,,,lawful evil,,Monster Manual,,,,,,
+diviner,8,humanoid,Medium,12,67,,,,,,,any alignment,,Volo's Guide to Monsters,,,,,,
+djinni,11,elemental,Large,17,161,fly,,,,,,chaotic good,,Monster Manual (SRD),21,15,22,15,16,20
+dolphin,1/8,beast,Medium,12,11,swim,,,,,,unaligned,,Volo's Guide to Monsters,14,13,13,6,12,7
+doppelganger,3,monstrosity ,Medium,14,52,,,,,,,neutral,,Monster Manual (SRD),11,18,14,11,12,14
+draegloth,7,fiend (demon),Large,15,123,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+draft-horse,1/4,beast,Large,10,19,,,,,,,unaligned,,Monster Manual (SRD),18,10,12,2,11,7
+dragon-turtle,17,dragon,Gargantuan,20,341,swim,,,,,,neutral,,Monster Manual (SRD),25,10,20,10,12,12
+dragonbait,5,humanoid,Medium,17,120,,,,,,,lawful good,,Adventures (Tomb of Annihilation),,,,,,
+dretch,1/4,fiend (demon),Small,11,18,,,,,,,chaotic evil,,Monster Manual (SRD),11,11,12,5,8,3
+drider,6,monstrosity,Large,19,123,,,,,,,chaotic evil,,Monster Manual (SRD),16,16,18,13,14,12
+drow,1/4,humanoid,Medium,15,13,,,,,,,neutral evil,,Monster Manual (SRD),10,14,10,11,11,12
+drow-arachnomancer,13,humanoid,Medium,15,162,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+drow-elite-warrior,5,humanoid,Medium,18,71,,,,,,,neutral evil,,Monster Manual,,,,,,
+drow-favored-consort,18,humanoid,Medium,15,225,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+drow-house-captain,9,humanoid,Medium,16,162,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,14,19,15,12,14,13
+drow-inquisitor,14,humanoid,Medium,16,143,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,11,15,14,16,21,20
+drow-mage,7,humanoid,Medium,12,45,,,,,,,neutral evil,,Monster Manual (BR),9,14,10,17,13,12
+drow-matron-mother,20,humanoid,Medium,17,262,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+drow-priestress-of-lolth,8,humanoid,Medium,16,71,,,,,,,neutral evil,,Monster Manual,,,,,,
+drow-shadowblade,11,humanoid,Medium,17,150,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+druid,2,humanoid,Medium,11,27,,,,,,,any alignment,,Monster Manual (SRD),10,12,13,12,15,11
+dryad,1,fey,Medium,11,22,,,,,,,neutral,,Monster Manual (SRD),10,12,11,14,15,18
+duergar,1,humanoid,Medium,16,26,,,,,,,lawful evil,,Monster Manual (SRD),14,11,14,11,10,9
+duergar-despot,12,humanoid,Medium,21,119,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+duergar-kavalrachni,2,humanoid,Medium,16,26,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+duergar-mind-master,2,humanoid,Medium,14,39,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+duergar-soulblade,1,humanoid,Medium,14,18,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+duergar-stone-guard,2,humanoid,Medium,18,39,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+duergar-warlord,6,humanoid,Medium,20,75,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+duergar-xarrorn,2,humanoid,Medium,18,26,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+duodrone,1/4,construct,Medium,15,11,,,,,,,lawful neutral,,Monster Manual,,,,,,
+dust-mephit,1/2,elemental,Small,12,17,fly,,,,,,neutral evil,,Monster Manual (SRD),5,14,10,9,11,10
+dybbuk,4,fiend (demon),Medium,14,37,fly,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+eagle,0,beast,Small,12,3,fly,,,,,,unaligned,,Monster Manual (SRD),6,15,10,2,14,7
+earth-elemental,5,elemental,Large,17,126,,,,,,,neutral,,Monster Manual (SRD),20,8,20,5,10,5
+earth-elemental-myrmidon,7,elemental,Medium,18,127,,,,,,,neutral,,Mordenkainen's Tome of Foes,,,,,,
+eblis,1,monstrosity,Large,13,26,fly,,,,,,neutral evil,,Adventures (Tomb of Annihilation),,,,,,
+efreeti,11,elemental,Large,17,200,fly,,,,,,lawful evil,,Monster Manual (SRD),22,12,24,16,15,16
+eidolon,12,undead,Medium,9,63,fly,,,,,,any alignment,,Mordenkainen's Tome of Foes,,,,,,
+elder-brain,14,aberration,Large,10,210,swim,,,,,,lawful evil,Legendary,Volo's Guide to Monsters,,,,,,
+elder-oblex,10,ooze,Huge,16,115,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+elder-tempest,23,elemental,Gargantuan,19,264,fly,,,,,,neutral,,Mordenkainen's Tome of Foes,,,,,,
+elephant,4,beast,Huge,12,76,,,,,,,unaligned,,Monster Manual (SRD),22,9,17,3,11,6
+elk,1/4,beast,Large,10,13,,,,,,,unaligned,,Monster Manual (SRD),16,10,12,2,10,6
+empyrean,23,celestial,Huge,22,313,"fly, swim",,,,,,chaotic good ,Legendary,Monster Manual,,,,,,
+enchanter,5,humanoid,Medium,12,40,,,,,,,any alignment,,Volo's Guide to Monsters,,,,,,
+erinyes,12,fiend (devil),Medium,18,153,fly,,,,,,lawful evil,,Monster Manual (SRD),18,16,18,14,14,18
+ettercap,2,monstrosity,Medium,13,44,,,,,,,neutral evil,,Monster Manual (SRD),14,15,13,7,12,8
+ettin,4,giant,Large,12,85,,,,,,,chaotic evil,,Monster Manual (SRD),21,8,17,6,10,8
+evoker,9,humanoid,Medium,12,66,,,,,,,any alignment,,Volo's Guide to Monsters,,,,,,
+expert-lvl-1,0,humanoid,Medium,14,11,,,,,,,any alignment,,Essentials Kit,,,,,,
+expert-lvl-2,0,humanoid,Medium,14,16,,,,,,,any alignment,,Essentials Kit,,,,,,
+expert-lvl-3,0,humanoid,Medium,14,22,,,,,,,any alignment,,Essentials Kit,,,,,,
+expert-lvl-4,0,humanoid,Medium,14,27,,,,,,,any alignment,,Essentials Kit,,,,,,
+expert-lvl-5,0,humanoid,Medium,14,33,,,,,,,any alignment,,Essentials Kit,,,,,,
+expert-lvl-6,0,humanoid,Medium,14,38,,,,,,,any alignment,,Essentials Kit,,,,,,
+faerie-dragon,1,dragon,Tiny,15,14,fly,,,,,,chaotic good,,Monster Manual,,,,,,
+female-steeder,1,monstrosity,Large,14,30,,,,,,,unaligned,,Mordenkainen's Tome of Foes,,,,,,
+fire-elemental,5,elemental,Large,13,102,,,,,,,neutral,,Monster Manual (SRD),10,17,16,6,10,7
+fire-elemental-myrmidon,7,elemental,Medium,18,123,,,,,,,neutral,,Mordenkainen's Tome of Foes,,,,,,
+fire-giant,9,giant,Huge,18,162,,,,,,,lawful evil,,Monster Manual (SRD),25,9,23,10,14,13
+fire-giant-dreadnought,14,giant,Huge,21,187,,,,,,,lawful evil,,Volo's Guide to Monsters,,,,,,
+fire-snake,1,elemental,Medium,14,22,,,,,,,neutral evil,,Monster Manual (BR),12,14,11,7,10,8
+firenewt-warlock-of-imix,1,humanoid,Medium,10,33,,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+firenewt-warrior,1/2,humanoid,Medium,16,22,,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+fist-of-bane,1/2,humanoid,Medium,18,22,,,,,,,lawful evil,,Adventures (Descent into Avernus),,,,,,
+flail-snail,3,elemental,Large,16,52,,,,,,,unaligned,,Volo's Guide to Monsters,,,,,,
+flameskull,4,undead,Tiny,13,40,fly,,,,,,neutral evil,,Monster Manual (SRD),1,17,14,16,10,11
+flesh-golem,5,construct,Medium,9,93,,,,,,,neutral,,Monster Manual (SRD),19,9,18,6,10,5
+flind,9,humanoid,Medium,16,127,,,,,,,chaotic evil,,Volo's Guide to Monsters,20,10,19,11,13,12
+flumph,1/8,aberration,Small,12,7,fly,,,,,,lawful good,,Monster Manual,,,,,,
+flying-snake,1/8,beast,Tiny,14,5,"fly, swim",,,,,,unaligned,,Monster Manual (SRD),4,18,11,2,12,5
+flying-sword,1/4,construct,Small,17,17,fly,,,,,,unaligned,,Monster Manual (SRD),12,15,11,1,5,1
+fomorian,8,giant,Huge,14,149,,,,,,,chaotic evil,,Monster Manual,,,,,,
+fraz-urb-luu,23,fiend (demon),Large,18,337,fly,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+frog,0,beast,Tiny,11,1,swim,,,,,,unaligned,,Monster Manual (SRD),1,13,8,1,8,3
+froghemoth,10,monstrosity,Huge,14,184,swim,,,,,,unaligned,,Volo's Guide to Monsters,23,13,20,2,12,5
+frost-giant,8,giant,Huge,15,138,,,,,,,neutral evil,,Monster Manual (SRD),23,9,21,9,10,12
+frost-giant-everlasting-one,12,giant,Huge,15,189,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+frost-salamander,9,elemental,Huge,17,168,,,,,,,unaligned,,Mordenkainen's Tome of Foes,,,,,,
+galeb-duhr,6,elemental,Medium,16,85,,,,,,,neutral,,Monster Manual (BR),20,14,20,11,12,11
+gargoyle,2,elemental,Medium,15,52,fly,,,,,,chaotic evil,,Monster Manual (SRD),15,11,16,6,11,7
+gas-spore,1/2,plant,Large,5,1,fly,,,,,,unaligned,,Monster Manual,,,,,,
+gauth,6,aberration,Medium,15,67,fly,,,,,,lawful evil,,Volo's Guide to Monsters,10,14,16,15,15,13
+gazer,1/2,aberration,Tiny,13,13,fly,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+gelatinous-cube,2,ooze,Large,6,84,,,,,,,unaligned,,Monster Manual (SRD),14,3,20,1,6,1
+geryon,22,fiend (devil),Huge,19,300,fly,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+ghast,2,undead,Medium,13,36,,,,,,,chaotic evil,,Monster Manual (SRD),16,17,10,11,10,8
+ghost,4,undead,Medium,11,45,fly,,,,,,any alignment,,Monster Manual (SRD),7,13,10,10,12,17
+ghoul,1,undead,Medium,12,22,,,,,,,chaotic evil,,Monster Manual (SRD),13,15,10,7,10,6
+giant-ape,7,beast,Huge,12,157,,,,,,,unaligned,,Monster Manual (SRD),23,14,18,7,12,7
+giant-badger,1/4,beast,Medium,10,13,,,,,,,unaligned,,Monster Manual (SRD),13,10,15,2,12,5
+giant-bat,1/4,beast,Large,13,22,fly,,,,,,unaligned,,Monster Manual (SRD),15,16,11,2,12,6
+giant-boar,2,beast,Large,12,42,,,,,,,unaligned,,Monster Manual (SRD),17,10,16,2,7,5
+giant-centipede,1/4,beast,Small,13,4,,,,,,,unaligned,,Monster Manual (SRD),5,14,12,1,7,3
+giant-constrictor-snake,2,beast,Huge,12,60,swim,,,,,,unaligned,,Monster Manual (SRD),19,14,12,1,10,3
+giant-crab,1/8,beast,Medium,15,13,swim,,,,,,unaligned,,Monster Manual (SRD),13,15,11,1,9,3
+giant-crocodile,5,beast,Huge,14,85,swim,,,,,,unaligned,,Monster Manual (SRD),21,9,17,2,10,7
+giant-eagle,1,beast,Large,13,26,fly,,,,,,neutral good,,Monster Manual (SRD),16,17,13,8,14,10
+giant-elk,2,beast,Huge,14,42,,,,,,,unaligned,,Monster Manual (SRD),19,16,14,7,14,10
+giant-fire-beetle,0,beast,Small,13,4,,,,,,,unaligned,,Monster Manual (SRD),8,10,12,1,7,3
+giant-four-armed-gargoyle,10,elemental,Large,17,147,fly,,,,,,chaotic evil,,Adventures (Tomb of Annihilation),,,,,,
+giant-frog,1/4,beast,Medium,11,18,swim,,,,,,unaligned,,Monster Manual (SRD),12,13,11,2,10,3
+giant-goat,1/2,beast,Large,11,19,,,,,,,unaligned,,Monster Manual (SRD),17,11,12,3,12,6
+giant-hyena,1,beast,Large,12,45,,,,,,,unaligned,,Monster Manual (SRD),16,14,14,2,12,7
+giant-lizard,1/4,beast,Large,12,19,,,,,,,unaligned,,Monster Manual (SRD),15,12,13,2,10,5
+giant-octopus,1,beast,Large,11,52,swim,,,,,,unaligned,,Monster Manual (SRD),17,13,13,4,10,4
+giant-owl,1/4,beast,Large,12,19,fly,,,,,,neutral,,Monster Manual (SRD),13,15,12,8,13,10
+giant-poisonous-snake,1/4,beast,Medium,14,11,swim,,,,,,unaligned,,Monster Manual (SRD),10,18,13,2,10,3
+giant-rat,1/8,beast,Small,12,7,,,,,,,unaligned,,Monster Manual (SRD),7,15,11,2,10,4
+giant-scorpion,3,beast,Large,15,52,,,,,,,unaligned,,Monster Manual (SRD),15,13,15,1,9,3
+giant-sea-horse,1/2,beast,Large,13,16,swim,,,,,,unaligned,,Monster Manual (SRD),12,15,11,2,12,5
+giant-shark,5,beast,Huge,13,126,swim,,,,,,unaligned,,Monster Manual (SRD),23,11,21,1,10,5
+giant-spider,1,beast,Large,14,26,,,,,,,unaligned,,Monster Manual (SRD),14,16,12,2,11,4
+giant-strider,1,monstrosity,Large,14,22,,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+giant-toad,1,beast,Large,11,39,swim,,,,,,unaligned,,Monster Manual (SRD),15,13,13,2,10,3
+giant-two-headed-goat,1/2,beast,Large,11,19,,,,,,,unaligned,,Extra (Adventurers League),17,11,12,3,12,6
+giant-vulture,1,beast,Large,10,22,fly,,,,,,neutral evil,,Monster Manual (SRD),15,10,15,6,12,7
+giant-wasp,1/2,beast,Medium,12,13,fly,,,,,,unaligned,,Monster Manual (SRD),10,14,10,1,10,3
+giant-weasel,1/8,beast,Medium,13,9,,,,,,,unaligned,,Monster Manual (SRD),11,16,10,4,12,5
+giant-wolf-spider,1/4,beast,Medium,13,11,,,,,,,unaligned,,Monster Manual (SRD),12,16,13,3,12,4
+gibbering-mouther,2,aberration,Medium,9,67,swim,,,,,,neutral,,Monster Manual (SRD),10,8,16,3,10,6
+giff,3,humanoid,Medium,16,60,,,,,,,lawful neutral,,Mordenkainen's Tome of Foes,,,,,,
+girallon,4,monstrosity,Large,13,59,,,,,,,unaligned,,Volo's Guide to Monsters,,,,,,
+githyanki-gish,10,humanoid,Medium,17,123,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+githyanki-kith--rak,12,humanoid,Medium,18,180,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+githyanki-knight,8,humanoid,Medium,18,91,,,,,,,lawful evil,,Monster Manual,,,,,,
+githyanki-supreme-commander,14,humanoid,Medium,18,187,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+githyanki-warrior,3,humanoid,Medium,17,49,,,,,,,lawful evil,,Monster Manual,,,,,,
+githzerai-anarch,16,humanoid,Medium,20,144,fly,,,,,,lawful neutral,,Mordenkainen's Tome of Foes,,,,,,
+githzerai-enlightned,10,humanoid,Medium,18,112,,,,,,,lawful neutral,,Mordenkainen's Tome of Foes,,,,,,
+githzerai-monk,2,humanoid,Medium,14,38,,,,,,,lawful neutral,,Monster Manual,,,,,,
+githzerai-zerth,6,humanoid,Medium,17,84,,,,,,,lawful neutral,,Monster Manual,,,,,,
+glabrezu,9,fiend (demon),Large,17,157,,,,,,,chaotic evil,,Monster Manual (SRD),20,15,21,19,17,16
+gladiator,5,humanoid,Medium,16,112,,,,,,,any alignment,,Monster Manual (SRD),18,15,16,10,12,15
+gloom-weaver,9,humanoid,Medium,14,104,,,,,,,neutral,,Mordenkainen's Tome of Foes,,,,,,
+gnoll,1/2,humanoid,Medium,15,22,,,,,,,chaotic evil,,Monster Manual (SRD),14,12,11,6,10,7
+gnoll-fang-of-yeenoghu,4,fiend,Medium,14,65,,,,,,,chaotic evil,,Monster Manual,,,,,,
+gnoll-flesh-gnawer,1,humanoid,Medium,14,22,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+gnoll-hunter,1/2,humanoid,Medium,13,22,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+gnoll-pack-lord,2,humanoid,Medium,15,49,,,,,,,chaotic evil,,Monster Manual (BR),16,14,13,8,11,9
+gnoll-witherling,1/4,undead,Medium,12,11,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+goat,0,beast,Medium,10,4,,,,,,,unaligned,,Monster Manual (SRD),12,10,11,2,10,5
+goblin,1/4,humanoid,Small,15,7,,,,,,,neutral evil,,Monster Manual (SRD),8,14,10,10,8,8
+goblin-boss,1,humanoid,Small,17,21,,,,,,,neutral evil,,Monster Manual,,,,,,
+gold-dragon-wyrmling,3,dragon,Medium,17,60,"fly, swim",,,,,,lawful good,,Monster Manual (SRD),19,14,17,14,11,16
+gorgon,5,monstrosity,Large,19,114,,,,,,,unaligned,,Monster Manual (SRD),20,11,18,2,12,7
+goristro,17,fiend (demon),Huge,19,310,,,,,,,chaotic evil,,Monster Manual,,,,,,
+gray-ooze,1/2,ooze,Medium,8,22,,,,,,,unaligned,,Monster Manual (SRD),12,6,16,1,6,2
+gray-render,12,monstrosity,Large,19,189,,,,,,,chaotic neutral,,Mordenkainen's Tome of Foes,,,,,,
+gray-slaad,9,aberration ,Medium,18,127,,,,,,,chaotic neutral,,Monster Manual,,,,,,
+graz-zt,24,fiend (demon),Large,20,346,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+green-abishai,15,fiend (devil),Medium,18,187,fly,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+green-dragon-wyrmling,2,dragon,Medium,17,38,"fly, swim",,,,,,lawful evil,,Monster Manual (SRD),15,12,13,14,11,13
+green-hag,3,fey,Medium,17,82,,,,,,,neutral evil,,Monster Manual (SRD),18,12,16,13,14,14
+green-slaad,8,aberration ,Large,16,127,,,,,,,chaotic neutral,,Monster Manual,,,,,,
+grell,3,aberration,Medium,12,55,fly,,,,,,neutral evil,,Monster Manual (BR),15,14,13,12,11,9
+grick,2,monstrosity,Medium,14,27,,,,,,,neutral,,Monster Manual (SRD),14,14,11,3,14,5
+grick-alpha,7,monstrosity,Large,18,75,,,,,,,neutral,,Monster Manual,,,,,,
+griffon,2,monstrosity,Large,12,59,fly,,,,,,unaligned,,Monster Manual (SRD),18,15,16,2,13,8
+grimlock,1/4,humanoid,Medium,11,11,,,,,,,neutral evil,,Monster Manual (SRD),16,12,12,9,8,6
+grung,1/4,humanoid,Small,12,11,,,,,,,lawful evil,,Volo's Guide to Monsters,,,,,,
+grung-elite-warrior,2,humanoid,Small,13,49,,,,,,,lawful evil,,Volo's Guide to Monsters,,,,,,
+grung-wildling,1,humanoid,Small,13,27,,,,,,,lawful evil,,Volo's Guide to Monsters,,,,,,
+guard,1/8,humanoid,Medium,16,11,,,,,,,any alignment,,Monster Manual (SRD),13,12,12,10,11,10
+guard-drake,2,dragon,Medium,14,52,,,,,,,unaligned,,Volo's Guide to Monsters,,,,,,
+guardian-naga,10,monstrosity,Large,18,127,,,,,,,lawful good,,Monster Manual (SRD),19,18,16,16,19,18
+gynosphinx,11,monstrosity,Large,17,136,fly,,,,,,lawful neutral,Legendary,Monster Manual (SRD),18,15,16,18,18,18
+halaster-blackcloak,23,humanoid,Medium,14,246,,,,,,,chaotic evil,,Adventures (Dungeon of the Mad Mage),,,,,,
+half-ogre,1,giant,Large,12,30,,,,,,,any chaotic alignment,,Monster Manual (BR),17,10,14,7,9,10
+half-red-dragon-veteran,5,humanoid,Medium,18,65,,,,,,,any alignment,,Monster Manual (BR),16,13,14,10,11,10
+harpy,1,monstrosity,Medium,11,38,fly,,,,,,chaotic evil,,Monster Manual (SRD),12,13,12,7,10,13
+hawk,0,beast,Tiny,13,1,fly,,,,,,unaligned,,Monster Manual (SRD),5,16,8,2,14,6
+hell-hound,3,fiend,Medium,15,45,,,,,,,lawful evil,,Monster Manual (SRD),17,12,14,6,13,6
+hellfire-engine,16,construct,Huge,18,216,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+hellwasp,5,fiend,Large,19,52,fly,,,,,,lawful evil,,Adventures (Descent into Avernus),,,,,,
+helmed-horror,4,construct,Medium,20,60,fly,,,,,,neutral,,Monster Manual (BR),18,13,16,10,10,10
+hezrou,8,fiend (demon),Large,16,136,,,,,,,chaotic evil,,Monster Manual (SRD),19,17,20,5,12,13
+hill-giant,5,giant,Huge,13,105,,,,,,,chaotic evil,,Monster Manual (SRD),21,8,19,5,9,6
+hippogriff,1,monstrosity,Large,11,19,fly,,,,,,unaligned,,Monster Manual (SRD),17,13,13,2,12,8
+hobgoblin,1/2,humanoid,Medium,18,11,,,,,,,lawful evil,,Monster Manual (SRD),13,12,12,10,10,9
+hobgoblin-captain,3,humanoid,Medium,17,39,,,,,,,lawful evil,,Monster Manual (BR),15,14,14,12,10,13
+hobgoblin-devastator,4,humanoid,Medium,13,45,,,,,,,lawful evil,,Volo's Guide to Monsters,,,,,,
+hobgoblin-iron-shadow,2,humanoid,Medium,15,32,,,,,,,lawful evil,,Volo's Guide to Monsters,14,16,15,14,15,11
+hobgoblin-warlord,6,humanoid,Medium,20,97,,,,,,,lawful evil,,Monster Manual,,,,,,
+homunculus,0,construct,Tiny,13,5,fly,,,,,,neutral,,Monster Manual (SRD),4,15,11,10,10,7
+hook-horror,3,monstrosity,Large,15,75,,,,,,,neutral,,Monster Manual (BR),18,10,15,6,12,7
+horned-devil,11,fiend (devil),Large,18,178,fly,,,,,,lawful evil,,Monster Manual (SRD),22,17,21,12,16,17
+howler,8,fiend,Large,16,90,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+hulking-crab,5,beast,Huge,17,76,swim,,,,,,unaligned,,Adventures (Storm King's Thunder),,,,,,
+hunter-shark,2,beast,Large,12,45,swim,,,,,,unaligned,,Monster Manual (SRD),18,13,15,1,10,4
+hutijin,21,fiend (devil),Large,19,200,fly,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+hydra,8,monstrosity,Huge,15,172,swim,,,,,,unaligned,,Monster Manual (SRD),20,12,20,2,10,7
+hydroloth,9,fiend (yugoloth),Medium,15,135,swim,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+hyena,0,beast,Medium,11,5,,,,,,,unaligned,,Monster Manual (SRD),11,13,12,2,12,5
+ice-devil,14,fiend (devil),Large,18,180,,,,,,,lawful evil,,Monster Manual (SRD),21,14,18,18,15,18
+ice-mephit,1/2,elemental,Small,11,21,fly,,,,,,neutral evil,,Monster Manual (SRD),7,13,10,9,11,12
+ice-toad,1,monstrosity,Medium,12,32,swim,,,,,,neutral,,Adventures (Tyranny of Dragons),,,,,,
+illusionist,3,humanoid,Medium,12,38,,,,,,,any alignment,,Volo's Guide to Monsters,,,,,,
+imix,19,elemental,Huge,17,325,fly,,,,,,neutral evil,,Adventures (Princes of the Apocalypse),,,,,,
+imp,1,fiend (devil),Tiny,13,10,fly,,,,,,lawful evil,,Monster Manual (SRD),6,17,13,11,12,14
+intellect-devourer,2,aberration,Tiny,12,21,,,,,,,lawful evil,,Monster Manual,,,,,,
+invisible-stalker,6,elemental,Medium,14,104,fly,,,,,,neutral,,Monster Manual (SRD),16,19,14,10,15,11
+iron-cobra,4,construct,Medium,13,45,,,,,,,unaligned,,Mordenkainen's Tome of Foes,,,,,,
+iron-consul,2,humanoid,Medium,16,45,,,,,,,lawful evil,,Adventures (Descent into Avernus),,,,,,
+iron-golem,16,construct,Large,20,210,,,,,,,unaligned,,Monster Manual (SRD),24,9,20,3,11,1
+jackal,0,beast,Small,12,3,,,,,,,unaligned,,Monster Manual (SRD),8,15,11,3,12,6
+jackalwere,1/2,humanoid,Medium,12,18,,,,,,,chaotic evil,,Monster Manual (BR),11,15,11,13,11,10
+jaculi,1/2,beast,Large,14,16,,,,,,,unaligned,,Adventures (Tomb of Annihilation),,,,,,
+jarlaxle-baenre,15,humanoid,Medium,24,123,,,,,,,chaotic neutral,,Adventures (Dragon Heist),,,,,,
+juiblex,23,fiend (demon),Huge,18,350,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+kamadan,4,monstrosity,Large,13,67,,,,,,,unaligned,,Adventures (Tomb of Annihilation),,,,,,
+kenku,1/4,humanoid,Medium,13,13,,,,,,,chaotic neutral,,Monster Manual (BR),10,16,10,11,10,10
+ki-rin,12,celestial,Huge,20,152,fly,,,,,,lawful good,Legendary,Volo's Guide to Monsters,,,,,,
+killer-whale,3,beast,Huge,12,90,swim,,,,,,unaligned,,Monster Manual (SRD),19,10,13,3,12,7
+knight,3,humanoid,Medium,18,52,,,,,,,any alignment,,Monster Manual (SRD),16,11,14,11,11,15
+kobold,1/8,humanoid,Small,12,5,,,,,,,lawful evil,,Monster Manual (SRD),7,15,9,8,7,8
+kobold-dragonshield,1,humanoid,Small,15,44,,,,,,,lawful evil,,Volo's Guide to Monsters,,,,,,
+kobold-inventor,1/4,humanoid,Small,12,13,,,,,,,lawful evil,,Volo's Guide to Monsters,7,15,12,8,7,8
+kobold-scale-sorcerer,1,humanoid,Small,15,27,,,,,,,lawful evil,,Volo's Guide to Monsters,,,,,,
+korred,7,fey,Small,17,102,,,,,,,chaotic neutral,,Volo's Guide to Monsters,,,,,,
+kraken,23,monstrosity,Gargantuan,18,472,swim,,,,,,chaotic evil,Legendary,Monster Manual (SRD),30,11,25,22,18,20
+kraken-priest,5,humanoid,Medium,10,75,swim,,,,,,any evil alignment,,Volo's Guide to Monsters,,,,,,
+kruthik-hive-lord,5,monstrosity,Large,20,102,,,,,,,unaligned,,Mordenkainen's Tome of Foes,,,,,,
+kuo-toa,1/4,humanoid,Medium,13,18,swim,,,,,,neutral evil,,Monster Manual (BR),13,10,11,11,10,8
+kuo-toa-archpriest,6,humanoid,Medium,13,97,swim,,,,,,neutral evil,,Monster Manual (BR),16,14,16,13,16,14
+kuo-toa-whip,1,humanoid,Medium,11,65,swim,,,,,,neutral evil,,Monster Manual (BR),14,10,14,12,14,11
+laeral-silverhand,17,humanoid,Medium,18,228,,,,,,,chaotic good,,Adventures (Dragon Heist),13,17,20,20,20,19
+lamia,4,monstrosity,Large,13,97,,,,,,,chaotic evil,,Monster Manual (SRD),16,13,15,14,15,16
+lemure,0,fiend (devil),Medium,7,13,,,,,,,lawful evil,,Monster Manual (SRD),10,5,11,1,11,3
+leucrotta,3,monstrosity,Large,14,67,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+leviathan,20,elemental,Gargantuan,17,328,swim,,,,,,neutral,,Mordenkainen's Tome of Foes,,,,,,
+lich,21,undead,Medium,17,135,,,,,,,any evil alignment,Legendary,Monster Manual (SRD),11,16,16,20,14,16
+lion,1,beast,Large,12,26,,,,,,,unaligned,,Monster Manual (SRD),17,15,13,3,12,8
+lizard,0,beast,Tiny,10,2,,,,,,,unaligned,,Monster Manual (SRD),2,11,10,1,8,3
+lizard-king-queen,4,humanoid,Medium,15,78,swim,,,,,,chaotic evil,,Monster Manual (BR),17,12,15,11,11,15
+lizardfolk,1/2,humanoid,Medium,15,22,swim,,,,,,neutral,,Monster Manual (SRD),15,10,13,7,12,7
+lizardfolk-shaman,2,humanoid,Medium,13,27,swim,,,,,,neutral,,Monster Manual (BR),15,10,13,10,15,8
+mage,6,humanoid,Medium,12,40,,,,,,,any alignment,,Monster Manual (SRD),9,14,11,17,12,11
+magma-mephit,1/2,elemental,Small,11,22,fly,,,,,,neutral evil,,Monster Manual (SRD),8,12,12,7,10,10
+magmin,1/2,elemental,Small,14,9,,,,,,,chaotic neutral,,Monster Manual (SRD),7,15,12,8,11,10
+male-steeder,1/4,monstrosity,Medium,12,13,,,,,,,unaligned,,Mordenkainen's Tome of Foes,,,,,,
+mammoth,6,beast,Huge,13,126,,,,,,,unaligned,,Monster Manual (SRD),24,9,21,3,11,6
+manes,1/8,fiend (demon),Small,9,9,,,,,,,chaotic evil,,Monster Manual,,,,,,
+manshoon,13,humanoid,Medium,19,126,,,,,,,lawful evil,,Adventures (Dragon Heist),,,,,,
+manticore,3,monstrosity,Large,14,68,fly,,,,,,lawful evil,,Monster Manual (SRD),17,16,17,7,12,8
+mantrap,1,plant,Large,12,45,,,,,,,unaligned,,Adventures (Tomb of Annihilation),,,,,,
+marid,11,elemental,Large,17,229,"fly, swim",,,,,,chaotic neutral,,Monster Manual,,,,,,
+marilith,16,fiend (demon),Large,18,189,,,,,,,chaotic evil,,Monster Manual (SRD),18,20,20,18,16,20
+martial-arts-adept,3,humanoid,Medium,16,60,,,,,,,any alignment,,Volo's Guide to Monsters,,,,,,
+marut,25,construct,Large,22,432,fly,,,,,,lawful neutral,,Mordenkainen's Tome of Foes,,,,,,
+master-of-souls,4,humanoid,Medium,12,45,,,,,,,neutral evil,,Adventures (Descent into Avernus),,,,,,
+master-thief,5,humanoid,Medium,16,84,,,,,,,any alignment,,Volo's Guide to Monsters,,,,,,
+mastiff,1/8,beast,Medium,12,5,,,,,,,unaligned,,Monster Manual (SRD),13,14,12,3,12,7
+maurezhi,7,fiend (demon),Medium,15,88,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+maw-demon,1,fiend (demon),Medium,13,33,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+meazel,1,humanoid,Medium,13,35,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+medusa,6,monstrosity,Medium,15,127,,,,,,,lawful evil,,Monster Manual (SRD),10,15,16,12,13,15
+meenlock,2,fey,Small,15,31,,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+merfolk,1/8,humanoid,Medium,11,11,swim,,,,,,neutral,,Monster Manual (SRD),10,13,12,11,11,12
+merregon,4,fiend (devil),Medium,16,45,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+merrenoloth,3,fiend (yugoloth),Medium,13,40,swim,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+merrow,2,monstrosity,Large,13,45,swim,,,,,,chaotic evil,,Monster Manual (SRD),18,10,15,8,10,9
+mezzoloth,5,fiend (yugoloth),Medium,18,75,,,,,,,neutral evil,,Monster Manual (BR),18,11,16,7,10,11
+mimic,2,monstrosity ,Medium,12,58,,,,,,,neutral,,Monster Manual (SRD),17,12,15,5,13,8
+mind-flayer,7,aberration,Medium,15,71,,,,,,,lawful evil,,Monster Manual,,,,,,
+mindwitness,5,aberration,Large,15,75,fly,,,,,,lawful evil,,Volo's Guide to Monsters,10,14,14,15,15,10
+minotaur,3,monstrosity,Large,14,76,,,,,,,chaotic evil,,Monster Manual (SRD),18,11,16,6,16,9
+minotaur-skeleton,2,undead,Large,12,67,,,,,,,lawful evil,,Monster Manual (SRD),18,11,15,6,8,5
+moloch,21,fiend (devil),Large,19,253,,,,,,,lawful evil,Legendary,Mordenkainen's Tome of Foes,26,19,22,21,18,23
+molydeus,21,fiend (demon),Huge,19,216,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+monodrone,1/8,construct,Medium,15,5,fly,,,,,,lawful neutral,,Monster Manual,,,,,,
+morkoth,11,aberration,Medium,17,130,swim,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+mouth-of-grolantor,6,giant,Huge,14,105,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+mud-mephit,1/4,elemental,Small,11,27,"fly, swim",,,,,,neutral evil,,Monster Manual (SRD),8,12,12,9,11,7
+mule,1/8,beast,Medium,10,11,,,,,,,unaligned,,Monster Manual (SRD),14,10,13,2,10,5
+mummified-warrior,1/4,undead,Medium,8,19,,,,,,,neutral,,Extra (AideDD),13,6,14,8,6,8
+mummy,3,undead,Medium,11,58,,,,,,,lawful evil,,Monster Manual (SRD),16,8,15,6,10,12
+mummy-lord,15,undead,Medium,17,97,,,,,,,lawful evil,Legendary,Monster Manual (SRD),18,10,17,11,18,16
+myconid-adult,1/2,plant,Medium,12,22,,,,,,,lawful neutral,,Monster Manual,,,,,,
+myconid-sovereign,2,plant,Large,13,60,,,,,,,lawful neutral,,Monster Manual,,,,,,
+myconid-sprout,0,plant,Small,10,7,,,,,,,lawful neutral,,Monster Manual,,,,,,
+nabassu,15,fiend (demon),Medium,18,190,fly,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+nagpa,17,humanoid,Medium,19,187,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+nalfeshnee,13,fiend (demon),Large,18,184,fly,,,,,,chaotic evil,,Monster Manual (SRD),21,10,22,19,12,15
+narzugon,13,fiend (devil),Medium,20,112,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,20,10,17,16,14,19
+necromancer,9,humanoid,Medium,12,66,,,,,,,any alignment,,Volo's Guide to Monsters,,,,,,
+necromite-of-myrkul,1/2,humanoid,Medium,11,13,,,,,,,neutral evil,,Adventures (Descent into Avernus),,,,,,
+needle-blight,1/4,plant,Medium,12,11,,,,,,,neutral evil,,Monster Manual,,,,,,
+neogi,3,aberration,Small,15,33,,,,,,,lawful evil,,Volo's Guide to Monsters,,,,,,
+neogi-hatchling,1/8,aberration,Tiny,11,7,,,,,,,lawful evil,,Volo's Guide to Monsters,,,,,,
+neogi-master,4,aberration,Medium,15,71,,,,,,,lawful evil,,Volo's Guide to Monsters,,,,,,
+neothelid,13,aberration,Gargantuan,16,325,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+night-blade,1/4,humanoid,Medium,12,11,,,,,,,chaotic evil,,Adventures (Descent into Avernus),,,,,,
+night-hag,5,fiend,Medium,17,112,,,,,,,neutral evil,,Monster Manual (SRD),18,15,16,16,14,16
+nightmare,3,fiend,Large,13,68,fly,,,,,,neutral evil,,Monster Manual (SRD),18,15,16,10,13,15
+nightwalker,20,undead,Huge,14,297,fly,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+nilbog,1,humanoid,Small,13,7,,,,,,,chaotic evil,,Volo's Guide to Monsters,8,14,10,10,8,15
+noble,1/8,humanoid,Medium,15,9,,,,,,,any alignment,,Monster Manual (SRD),11,12,11,12,14,16
+nothic,2,aberration,Medium,15,45,,,,,,,neutral evil,,Monster Manual,14,16,16,13,10,8
+nupperibo,1/2,fiend (devil),Medium,13,11,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+nycaloth,9,fiend (yugoloth),Large,18,123,fly,,,,,,neutral evil,,Monster Manual (BR),20,11,19,12,10,15
+oblex-spawn,1/4,ooze,Tiny,13,18,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+ochre-jelly,2,ooze,Large,8,45,,,,,,,unaligned,,Monster Manual (SRD),15,6,14,2,6,1
+octopus,0,beast,Small,12,3,swim,,,,,,unaligned,,Monster Manual (SRD),4,15,11,3,10,4
+ogre,2,giant,Large,11,59,,,,,,,chaotic evil,,Monster Manual (SRD),19,8,16,5,7,7
+ogre-battering-ram,4,giant,Large,14,59,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+ogre-bolt-launcher,2,giant,Large,13,59,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+ogre-chain-brute,3,giant,Large,11,59,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+ogre-howdah,2,giant,Large,13,59,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+ogre-zombie,2,undead,Large,8,85,,,,,,,neutral evil,,Monster Manual (SRD),19,6,18,3,6,5
+ogremoch,20,elemental,Gargantuan,20,526,,,,,,,neutral evil,,Adventures (Princes of the Apocalypse),,,,,,
+oinoloth,12,fiend (yugoloth),Medium,17,126,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+olhydra,18,elemental,Huge,18,324,swim,,,,,,neutral evil,,Adventures (Princes of the Apocalypse),,,,,,
+oni,7,giant,Large,16,110,fly,,,,,,lawful evil,,Monster Manual (SRD),19,11,16,14,12,15
+orc,1/2,humanoid,Medium,13,15,,,,,,,chaotic evil,,Monster Manual (SRD),16,12,16,7,11,10
+orc-blade-of-ilneval,4,humanoid,Medium,18,60,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+orc-claw-of-luthic,2,humanoid,Medium,14,45,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+orc-eye-of-gruumsh,2,humanoid,Medium,16,45,,,,,,,chaotic evil,,Monster Manual (BR),16,12,16,9,13,12
+orc-hand-of-yurtrus,2,humanoid,Medium,12,30,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+orc-red-fang-of-shargaas,3,humanoid,Medium,15,52,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+orc-war-chief,4,humanoid,Medium,16,93,,,,,,,chaotic evil,,Monster Manual,,,,,,
+orcus,26,fiend (demon),Huge,17,405,fly,,,,,,chaotic evil,Legendary,Mordenkainen's Tome of Foes,27,14,25,20,20,25
+orog,2,humanoid,Medium,18,42,,,,,,,chaotic evil,,Monster Manual (BR),18,12,18,12,11,12
+orthon,10,fiend (devil),Large,17,105,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+otyugh,5,aberration,Large,14,114,,,,,,,neutral,,Monster Manual (SRD),16,11,19,6,13,6
+owl,0,beast,Tiny,11,1,fly,,,,,,unaligned,,Monster Manual (SRD),3,13,8,2,12,7
+owlbear,3,monstrosity,Large,13,59,,,,,,,unaligned,,Monster Manual (SRD),20,12,17,3,12,7
+panther,1/4,beast,Medium,12,13,,,,,,,unaligned,,Monster Manual (SRD),14,15,10,3,14,7
+pegasus,2,celestial,Large,12,59,fly,,,,,,chaotic good,,Monster Manual (SRD),18,15,16,10,15,13
+pentadrone,2,construct,Large,16,32,,,,,,,lawful neutral,,Monster Manual,,,,,,
+peryton,2,monstrosity,Medium,13,33,fly,,,,,,chaotic evil,,Monster Manual (BR),16,12,13,9,12,10
+phase-spider,3,monstrosity,Large,13,32,,,,,,,unaligned,,Monster Manual (SRD),15,15,12,6,10,6
+phoenix,16,elemental,Gargantuan,18,175,fly,,,,,,neutral,,Mordenkainen's Tome of Foes,,,,,,
+piercer,1/2,monstrosity,Medium,15,22,,,,,,,unaligned,,Monster Manual (BR),10,13,16,1,7,3
+pit-fiend,20,fiend (devil),Large,19,300,fly,,,,,,lawful evil,,Monster Manual (SRD),26,14,24,22,18,24
+pixie,1/4,fey,Tiny,15,1,fly,,,,,,neutral good,,Monster Manual,,,,,,
+planetar,16,celestial,Large,19,200,fly,,,,,,lawful good,,Monster Manual (SRD),24,20,24,19,22,25
+plesiosaurus,2,beast,Large,13,68,swim,,,,,,unaligned,,Monster Manual (SRD),18,15,16,2,12,5
+poisonous-snake,1/8,beast,Tiny,13,2,swim,,,,,,unaligned,,Monster Manual (SRD),2,16,11,1,10,3
+polar-bear,2,beast,Large,12,42,swim,,,,,,unaligned,,Monster Manual (SRD),20,10,16,2,13,7
+pony,1/8,beast,Medium,10,11,,,,,,,unaligned,,Monster Manual (SRD),15,10,13,2,11,7
+priest,2,humanoid,Medium,13,27,,,,,,,any alignment,,Monster Manual (SRD),10,10,12,13,16,13
+pseudodragon,1/4,dragon,Tiny,13,7,fly,,,,,,neutral good,,Monster Manual (SRD),6,15,13,10,12,10
+pterafolk,1,monstrosity,Large,12,26,fly,,,,,,neutral evil,,Adventures (Tomb of Annihilation),,,,,,
+pteranodon,1/4,beast,Medium,13,13,fly,,,,,,unaligned,,Monster Manual (SRD),12,15,10,2,9,5
+purple-worm,15,monstrosity,Gargantuan,18,247,,,,,,,unaligned,,Monster Manual (SRD),28,7,22,1,8,4
+purple-wormling,2,monstrosity,Large,12,42,,,,,,,unaligned,,Adventures (Storm King's Thunder),,,,,,
+quadrone,1,construct,Medium,16,22,fly,,,,,,lawful neutral,,Monster Manual,,,,,,
+quaggoth,2,humanoid,Medium,13,45,,,,,,,chaotic neutral,,Monster Manual,,,,,,
+quaggoth-spore-servant,1,plant,Medium,13,45,,,,,,,unaligned,,Monster Manual,,,,,,
+quasit,1,fiend (demon),Tiny,13,7,,,,,,,chaotic evil,,Monster Manual (SRD),5,17,10,7,10,10
+quetzalcoatlus,2,beast,Huge,13,30,fly,,,,,,unaligned,,Volo's Guide to Monsters,15,13,13,2,10,5
+quickling,1,fey,Tiny,16,10,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+quipper,0,beast,Tiny,13,1,swim,,,,,,unaligned,,Monster Manual (SRD),2,16,9,1,7,2
+rakshasa,13,fiend,Medium,16,110,,,,,,,lawful evil,,Monster Manual (SRD),14,17,18,13,16,20
+rat,0,beast,Tiny,10,1,,,,,,,unaligned,,Monster Manual (SRD),2,11,9,2,10,4
+raven,0,beast,Tiny,12,1,fly,,,,,,unaligned,,Monster Manual (SRD),2,14,8,2,12,6
+reaper-of-bhaal,2,humanoid,Medium,15,27,,,,,,,chaotic evil,,Adventures (Descent into Avernus),,,,,,
+red-abishai,19,fiend (devil),Medium,22,255,fly,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+red-dragon-wyrmling,4,dragon,Medium,17,75,fly,,,,,,chaotic evil,,Monster Manual (SRD),19,10,17,12,11,15
+red-slaad,5,aberration,Large,14,93,,,,,,,chaotic neutral,,Monster Manual,,,,,,
+redcap,3,fey,Small,13,45,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+reef-manta-ray,1/2,beast,Large,12,16,swim,,,,,,unaligned,,Extra (AideDD),13,12,12,1,12,4
+reef-shark,1/2,beast,Medium,12,22,swim,,,,,,unaligned,,Monster Manual (SRD),14,13,13,1,10,4
+remorhaz,11,monstrosity,Huge,17,195,,,,,,,unaligned,,Monster Manual (SRD),24,13,21,4,10,5
+retriever,14,construct,Large,19,210,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+revenant,5,undead,Medium,13,136,,,,,,,neutral,,Monster Manual (BR),18,14,18,13,16,18
+rhinoceros,2,beast,Large,11,45,,,,,,,unaligned,,Monster Manual (SRD),21,8,15,2,12,6
+riding-horse,1/4,beast,Large,10,13,,,,,,,unaligned,,Monster Manual (SRD),16,10,12,2,11,7
+roc,11,monstrosity,Gargantuan,15,248,fly,,,,,,unaligned,,Monster Manual (SRD),28,10,20,3,10,9
+roper,5,monstrosity,Large,20,93,,,,,,,neutral evil,,Monster Manual (SRD),18,8,17,7,16,6
+rot-troll,9,giant,Large,16,138,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+rug-of-smothering,2,construct,Large,12,33,,,,,,,unaligned,,Monster Manual (SRD),17,14,10,1,3,1
+rust-monster,1/2,monstrosity,Medium,14,27,,,,,,,unaligned,,Monster Manual (SRD),13,12,13,2,13,6
+rutterkin,2,fiend (demon),Medium,12,37,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+saber-toothed-tiger,2,beast,Large,12,52,,,,,,,unaligned,,Monster Manual (SRD),18,14,15,3,12,8
+sahuagin,1/2,humanoid,Medium,12,22,swim,,,,,,lawful evil,,Monster Manual (SRD),13,11,12,12,13,9
+sahuagin-baron,5,humanoid,Large,16,76,swim,,,,,,lawful evil,,Monster Manual,,,,,,
+sahuagin-priestess,2,humanoid,Medium,12,33,swim,,,,,,lawful evil,,Monster Manual,,,,,,
+salamander,5,elemental,Large,15,90,,,,,,,neutral evil,,Monster Manual (SRD),18,14,15,11,10,12
+satyr,1/2,fey,Medium,14,31,,,,,,,chaotic neutral,,Monster Manual (SRD),12,16,11,12,10,14
+scarecrow,1,construct,Medium,11,36,,,,,,,chaotic evil,,Monster Manual,,,,,,
+scorpion,0,beast,Tiny,11,1,,,,,,,unaligned,,Monster Manual (SRD),2,11,8,1,8,2
+scout,1/2,humanoid,Medium,13,16,,,,,,,any alignment,,Monster Manual (SRD),11,14,12,11,13,11
+sea-hag,2,fey,Medium,14,52,swim,,,,,,chaotic evil,,Monster Manual (SRD),16,13,16,12,12,13
+sea-horse,0,beast,Tiny,11,1,swim,,,,,,unaligned,,Monster Manual (SRD),1,12,8,1,10,2
+sea-spawn,1,humanoid,Medium,11,32,swim,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+shadow,1/2,undead,Medium,12,16,,,,,,,chaotic evil,,Monster Manual (SRD),6,14,13,6,10,8
+shadow-dancer,7,humanoid,Medium,15,71,,,,,,,neutral,,Mordenkainen's Tome of Foes,,,,,,
+shadow-demon,4,fiend (demon),Medium,13,66,fly,,,,,,chaotic evil,,Monster Manual (BR),1,17,12,14,13,14
+shadow-mastiff,2,monstrosity,Medium,12,33,,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+shambling-mound,5,plant,Large,15,136,swim,,,,,,unaligned,,Monster Manual (SRD),18,8,16,5,10,5
+shield-guardian,7,construct,Large,17,142,,,,,,,unaligned,,Monster Manual (SRD),18,8,18,7,10,3
+shoosuva,8,fiend (demon),Large,14,110,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+shrieker,0,plant,Medium,5,13,,,,,,,unaligned,,Monster Manual (SRD),1,1,10,1,3,1
+sibriex,18,fiend (demon),Huge,19,150,fly,,,,,,chaotic evil,Legendary,Mordenkainen's Tome of Foes,10,3,23,25,24,25
+silver-dragon-wyrmling,2,dragon,Medium,17,45,fly,,,,,,lawful good,,Monster Manual (SRD),19,10,17,12,11,15
+skeleton,1/4,undead,Medium,13,13,,,,,,,lawful evil,,Monster Manual (SRD),10,14,15,6,8,5
+skulk,1/2,humanoid,Medium,14,18,,,,,,,chaotic neutral,,Mordenkainen's Tome of Foes,,,,,,
+skull-lasher-of-myrkul,1,humanoid,Medium,12,32,,,,,,,neutral evil,,Adventures (Descent into Avernus),,,,,,
+skull-lord,15,undead,Medium,18,105,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+slaad-tadpole,1/8,aberration,Tiny,12,10,,,,,,,chaotic neutral,,Monster Manual,,,,,,
+slithering-tracker,3,ooze,Medium,14,32,swim,,,,,,chaotic evil,,Volo's Guide to Monsters,16,19,15,10,14,11
+smoke-mephit,1/4,elemental,Small,12,22,fly,,,,,,neutral evil,,Monster Manual (SRD),6,14,12,10,10,11
+solar,21,celestial,Large,21,243,fly,,,,,,lawful good,Legendary,Monster Manual (SRD),26,22,26,25,25,30
+soul-monger,11,humanoid,Medium,15,123,,,,,,,neutral,,Mordenkainen's Tome of Foes,,,,,,
+spawn-of-kyuss,5,undead,Medium,10,76,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+spectator,3,aberration,Medium,14,39,fly,,,,,,lawful neutral,,Monster Manual,8,14,14,13,14,11
+specter,1,undead,Medium,12,22,fly,,,,,,chaotic evil,,Monster Manual (SRD),1,14,11,10,10,11
+spellcaster-healer-lvl-1,0,humanoid,Medium,12,9,,,,,,,any alignment,,Essentials Kit,,,,,,
+spellcaster-healer-lvl-2,0,humanoid,Medium,12,13,,,,,,,any alignment,,Essentials Kit,,,,,,
+spellcaster-healer-lvl-3,0,humanoid,Medium,12,18,,,,,,,any alignment,,Essentials Kit,,,,,,
+spellcaster-healer-lvl-4,0,humanoid,Medium,12,22,,,,,,,any alignment,,Essentials Kit,,,,,,
+spellcaster-healer-lvl-5,0,humanoid,Medium,12,27,,,,,,,any alignment,,Essentials Kit,,,,,,
+spellcaster-healer-lvl-6,0,humanoid,Medium,12,31,,,,,,,any alignment,,Essentials Kit,,,,,,
+spellcaster-mage-lvl-1,0,humanoid,Medium,12,9,,,,,,,any alignment,,Essentials Kit,,,,,,
+spellcaster-mage-lvl-2,0,humanoid,Medium,12,13,,,,,,,any alignment,,Essentials Kit,,,,,,
+spellcaster-mage-lvl-3,0,humanoid,Medium,12,18,,,,,,,any alignment,,Essentials Kit,,,,,,
+spellcaster-mage-lvl-4,0,humanoid,Medium,12,22,,,,,,,any alignment,,Essentials Kit,,,,,,
+spellcaster-mage-lvl-5,0,humanoid,Medium,12,27,,,,,,,any alignment,,Essentials Kit,,,,,,
+spellcaster-mage-lvl-6,0,humanoid,Medium,12,31,,,,,,,any alignment,,Essentials Kit,,,,,,
+spider,0,beast,Tiny,12,1,,,,,,,unaligned,,Monster Manual (SRD),2,14,8,1,10,2
+spined-devil,2,fiend (devil),Small,13,22,fly,,,,,,lawful evil,,Monster Manual,,,,,,
+spirit-naga,8,monstrosity,Large,15,75,,,,,,,chaotic evil,,Monster Manual (SRD),18,17,14,16,15,16
+spirit-troll,11,giant,Large,17,97,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+spring-eladrin,10,fey,Medium,19,127,,,,,,,chaotic neutral,,Mordenkainen's Tome of Foes,,,,,,
+sprite,1/4,fey,Tiny,15,2,fly,,,,,,neutral good,,Monster Manual (SRD),3,18,10,14,13,11
+spy,1,humanoid,Medium,12,27,,,,,,,any alignment,,Monster Manual (SRD),10,15,10,12,14,16
+star-spawn-grue,1/4,aberration,Small,11,17,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+star-spawn-hulk,10,aberration,Large,16,136,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+star-spawn-larva-mage,16,aberration,Medium,16,168,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+star-spawn-mangler,5,aberration,Medium,14,71,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+star-spawn-seer,13,aberration,Medium,17,153,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+steam-mephit,1/4,elemental,Small,10,21,fly,,,,,,neutral evil,,Monster Manual (SRD),5,11,10,11,10,12
+steel-predator,16,construct,Large,20,207,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+stegosaurus,4,beast,Huge,13,76,,,,,,,unaligned,,Adventures (Tomb of Annihilation),,,,,,
+stirge,1/8,beast,Tiny,14,2,fly,,,,,,unaligned,,Monster Manual (SRD),4,16,11,2,8,6
+stone-cursed,1,construct,Medium,17,19,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+stone-giant,7,giant,Huge,17,126,,,,,,,neutral,,Monster Manual (SRD),23,15,20,10,12,9
+stone-giant-dreamwalker,10,giant,Huge,18,161,,,,,,,chaotic neutral,,Volo's Guide to Monsters,23,14,21,10,8,12
+stone-golem,10,construct,Large,17,178,,,,,,,unaligned,,Monster Manual (SRD),22,9,20,3,11,1
+stone-juggernaut,12,construct,Large,15,157,,,,,,,unaligned,,Adventures (Tomb of Annihilation),,,,,,
+storm-giant,13,giant,Huge,16,230,swim,,,,,,chaotic good,,Monster Manual (SRD),29,14,20,16,18,18
+storm-giant-quintessent,16,giant,Huge,12,230,"fly, swim",,,,,,chaotic good,,Volo's Guide to Monsters,,,,,,
+strahd-von-zarovich,15,undead ,Medium,16,144,,,,,,,lawful evil,,Adventures (Curse of Strahd),,,,,,
+su-monster,1,monstrosity,Medium,12,27,,,,,,,chaotic evil,,Adventures (Tomb of Annihilation),,,,,,
+succubus,4,fiend ,Medium,15,66,fly,,,,,,neutral evil,,Monster Manual (SRD),8,17,13,15,12,20
+summer-eladrin,10,fey,Medium,19,127,,,,,,,chaotic neutral,,Mordenkainen's Tome of Foes,,,,,,
+swarm-of-bats,1/4,beast,Medium,12,22,fly,,,,,,unaligned,,Monster Manual (SRD),5,15,10,2,12,4
+swarm-of-cranium-rats,5,beast,Medium,12,36,,,,,,,lawful evil,,Volo's Guide to Monsters,,,,,,
+swarm-of-insects,1/2,beast,Medium,12,22,,,,,,,unaligned,,Monster Manual (SRD),3,13,10,1,7,1
+swarm-of-poisonous-snakes,2,beast,Medium,14,36,swim,,,,,,unaligned,,Monster Manual (SRD),8,18,11,1,10,3
+swarm-of-quippers,1,beast,Medium,13,28,swim,,,,,,unaligned,,Monster Manual (SRD),13,16,9,1,7,2
+swarm-of-rats,1/4,beast,Medium,10,24,,,,,,,unaligned,,Monster Manual (SRD),9,11,9,2,10,3
+swarm-of-ravens,1/4,beast,Medium,12,24,fly,,,,,,unaligned,,Monster Manual (SRD),6,14,8,3,12,6
+swarm-of-rot-grubs,1/2,beast,Medium,8,22,,,,,,,unaligned,,Volo's Guide to Monsters,2,7,10,1,2,1
+swashbuckler,3,humanoid,Medium,17,66,,,,,,,any non-lawful alignment,,Volo's Guide to Monsters,,,,,,
+sword-wraith-commander,8,undead,Medium,18,127,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+sword-wraith-warrior,3,undead,Medium,16,45,,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+tabaxi-hunter,1,humanoid,Medium,14,40,,,,,,,chaotic good,,Adventures (Tomb of Annihilation),,,,,,
+tabaxi-minstrel,1/4,humanoid,Medium,12,22,,,,,,,chaotic good,,Adventures (Tomb of Annihilation),,,,,,
+tanarukk,5,fiend (demon),Medium,14,95,,,,,,,chaotic evil,,Volo's Guide to Monsters,18,13,20,9,9,9
+tarrasque,30,monstrosity,Gargantuan,25,676,,,,,,,unaligned,Legendary,Monster Manual (SRD),30,11,30,3,11,11
+the-angry,13,monstrosity,Medium,18,255,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+the-hungry,11,monstrosity,Medium,17,225,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+the-lonely,9,monstrosity,Medium,16,112,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+the-lost,7,monstrosity,Medium,15,78,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+the-wretched,1/4,monstrosity,Small,15,10,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+thorny,1,plant,Medium,14,27,,,,,,,neutral,,Volo's Guide to Monsters,,,,,,
+thri-kreen,1,humanoid,Medium,15,33,,,,,,,chaotic neutral,,Monster Manual,,,,,,
+thug,1/2,humanoid,Medium,11,32,,,,,,,any non-good alignment,,Monster Manual (SRD),15,11,14,10,10,11
+tiamat,30,fiend,Gargantuan,25,615,fly,,,,,,chaotic evil,,Adventures (Tyranny of Dragons),,,,,,
+tiger,1,beast,Large,12,37,,,,,,,unaligned,,Monster Manual (SRD),17,15,14,3,12,8
+titivilus,16,fiend (devil),Medium,20,127,fly,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+tlincalli,5,monstrosity,Large,15,85,,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+tortle,1/4,humanoid,Medium,17,22,,,,,,,lawful good,,Mordenkainen's Tome of Foes,,,,,,
+tortle-druid,2,humanoid,Medium,17,33,,,,,,,lawful neutral,,Mordenkainen's Tome of Foes,,,,,,
+transmuter,5,humanoid,Medium,12,40,,,,,,,any alignment,,Volo's Guide to Monsters,,,,,,
+trapper,3,monstrosity,Large,13,85,,,,,,,unaligned,,Volo's Guide to Monsters,,,,,,
+treant,9,plant,Huge,16,138,,,,,,,chaotic good,,Monster Manual (SRD),23,8,21,12,16,12
+tri-flower-frond,1/2,plant,Medium,10,11,,,,,,,unaligned,,Adventures (Tomb of Annihilation),,,,,,
+tribal-warrior,1/8,humanoid,Medium,12,11,,,,,,,any alignment,,Monster Manual (SRD),13,11,12,8,11,8
+triceratops,5,beast,Huge,13,95,,,,,,,unaligned,,Monster Manual (SRD),22,9,17,2,11,5
+tridrone,1/2,construct,Medium,15,16,,,,,,,lawful neutral,,Monster Manual,,,,,,
+troglodyte,1/4,humanoid,Medium,11,13,,,,,,,chaotic evil,,Monster Manual (BR),14,10,14,6,10,6
+troll,5,giant,Large,15,84,,,,,,,chaotic evil,,Monster Manual (SRD),18,13,20,7,9,7
+twig-blight,1/8,plant,Small,13,4,,,,,,,neutral evil,,Monster Manual (SRD),6,13,12,4,8,3
+tyrannosaurus-rex,8,beast,Huge,13,136,,,,,,,unaligned,,Monster Manual (SRD),25,10,19,2,12,9
+ulitharid,9,aberration,Large,15,127,,,,,,,lawful evil,,Volo's Guide to Monsters,,,,,,
+ultroloth,13,fiend (yugoloth),Medium,19,153,fly,,,,,,neutral evil,,Monster Manual,,,,,,
+umber-hulk,5,monstrosity,Large,18,93,,,,,,,chaotic evil,,Monster Manual (BR),20,13,16,9,10,10
+unicorn,5,celestial,Large,12,67,,,,,,,lawful good,Legendary,Monster Manual (SRD),18,14,15,11,17,16
+uthgardt-shaman,2,humanoid,Medium,13,38,,,,,,,neutral evil,,Adventures (Storm King's Thunder),,,,,,
+vajra-safahr,13,humanoid,Medium,14,126,,,,,,,lawful neutral,,Adventures (Dragon Heist),,,,,,
+vampire,13,undead ,Medium,16,144,,,,,,,lawful evil,Legendary,Monster Manual (SRD),18,18,18,17,15,18
+vampire-spawn,5,undead,Medium,15,82,,,,,,,neutral evil,,Monster Manual (SRD),16,16,16,11,10,12
+vampiric-mist,3,undead,Medium,13,30,fly,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+vargouille,1,fiend,Tiny,12,13,fly,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+vegepygmy,1/4,plant,Small,13,9,,,,,,,neutral,,Volo's Guide to Monsters,,,,,,
+vegepygmy-chief,2,plant,Small,14,33,,,,,,,neutral,,Volo's Guide to Monsters,,,,,,
+velociraptor,1/4,beast,Tiny,13,10,,,,,,,unaligned,,Volo's Guide to Monsters,,,,,,
+venerable-shadow,2,undead,Medium,13,27,,,,,,,chaotic evil,,Extra (AideDD),6,16,13,6,12,10
+venom-troll,7,giant,Large,15,94,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+veteran,3,humanoid,Medium,17,58,,,,,,,any alignment,,Monster Manual (SRD),16,13,14,10,11,10
+vine-blight,1/2,plant,Medium,12,26,,,,,,,neutral evil,,Monster Manual,,,,,,
+violet-fungus,1/4,plant,Medium,5,18,,,,,,,unaligned,,Monster Manual (SRD),3,1,10,1,3,1
+vrock,6,fiend (demon),Large,15,104,fly,,,,,,chaotic evil,,Monster Manual (SRD),17,15,18,8,13,8
+vulture,0,beast,Medium,10,5,fly,,,,,,unaligned,,Monster Manual (SRD),7,10,13,2,12,4
+war-priest,9,humanoid,Medium,18,117,,,,,,,any alignment,,Volo's Guide to Monsters,,,,,,
+warhorse,1/2,beast,Large,11,19,,,,,,,unaligned,,Monster Manual (SRD),18,12,13,2,12,7
+warhorse-skeleton,1/2,undead,Large,13,22,,,,,,,lawful evil,,Monster Manual (SRD),18,12,15,2,8,5
+warlock-of-the-archfey,4,humanoid,Medium,11,49,,,,,,,any alignment,,Volo's Guide to Monsters,,,,,,
+warlock-of-the-fiend,7,humanoid,Medium,12,78,,,,,,,any alignment,,Volo's Guide to Monsters,,,,,,
+warlock-of-the-great-old-one,6,humanoid,Medium,12,91,,,,,,,any alignment,,Volo's Guide to Monsters,,,,,,
+warlord,12,humanoid,Medium,18,229,,,,,,,any alignment,Legendary,Volo's Guide to Monsters,,,,,,
+warrior-lvl-1,0,humanoid,Medium,16,13,,,,,,,any alignment,,Essentials Kit,,,,,,
+warrior-lvl-2,0,humanoid,Medium,16,19,,,,,,,any alignment,,Essentials Kit,,,,,,
+warrior-lvl-3,0,humanoid,Medium,16,26,,,,,,,any alignment,,Essentials Kit,,,,,,
+warrior-lvl-4,0,humanoid,Medium,16,32,,,,,,,any alignment,,Essentials Kit,,,,,,
+warrior-lvl-5,0,humanoid,Medium,16,39,,,,,,,any alignment,,Essentials Kit,,,,,,
+warrior-lvl-6,0,humanoid,Medium,16,45,,,,,,,any alignment,,Essentials Kit,,,,,,
+wastrilith,13,fiend (demon),Large,18,157,swim,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+water-elemental,5,elemental,Large,14,114,swim,,,,,,neutral,,Monster Manual (SRD),18,14,18,5,10,8
+water-elemental-myrmidon,7,elemental,Medium,18,127,swim,,,,,,neutral,,Mordenkainen's Tome of Foes,,,,,,
+water-weird,3,elemental,Large,13,58,swim,,,,,,neutral,,Monster Manual (BR),17,16,13,11,10,10
+weasel,0,beast,Tiny,13,1,,,,,,,unaligned,,Monster Manual (SRD),3,16,8,2,12,3
+werebear,5,humanoid,Medium,10,135,,,,,,,neutral good,,Monster Manual (SRD),19,10,17,11,12,12
+wereboar,4,humanoid,Medium,10,78,,,,,,,neutral evil,,Monster Manual (SRD),17,10,15,10,11,8
+wererat,2,humanoid,Medium,12,33,,,,,,,lawful evil,,Monster Manual (SRD),10,15,12,11,10,8
+weretiger,4,humanoid,Medium,12,120,,,,,,,neutral,,Monster Manual (SRD),17,15,16,10,13,11
+werewolf,3,humanoid,Medium,11,58,,,,,,,chaotic evil,,Monster Manual (SRD),15,13,14,10,11,10
+white-abishai,6,fiend (devil),Medium,15,68,fly,,,,,,lawful evil,,Mordenkainen's Tome of Foes,,,,,,
+white-dragon-wyrmling,2,dragon,Medium,16,32,"fly, swim",,,,,,chaotic evil,,Monster Manual (SRD),14,10,14,5,10,11
+wight,3,undead,Medium,14,45,,,,,,,neutral evil,,Monster Manual (SRD),15,14,16,10,13,15
+wild-dog,1/8,beast,Medium,12,5,,,,,,,unaligned,,Extra (Adventurers League),13,14,12,3,12,7
+wild-dog-alpha,1,beast,Large,12,26,,,,,,,unaligned,,Extra (Adventurers League),17,15,13,3,12,8
+will-o--wisp,2,undead,Tiny,19,22,fly,,,,,,chaotic evil,,Monster Manual (SRD),1,28,10,13,14,11
+winged-kobold,1/4,humanoid,Small,13,7,fly,,,,,,lawful evil,,Monster Manual (BR),7,16,9,8,7,8
+winter-eladrin,10,fey,Medium,19,127,,,,,,,chaotic neutral,,Mordenkainen's Tome of Foes,,,,,,
+winter-wolf,3,monstrosity,Large,13,75,,,,,,,neutral evil,,Monster Manual (SRD),18,13,14,7,12,8
+wolf,1/4,beast,Medium,13,11,,,,,,,unaligned,,Monster Manual (SRD),12,15,12,3,12,6
+wood-woad,5,plant,Medium,18,75,,,,,,,lawful neutral,,Volo's Guide to Monsters,,,,,,
+worg,1/2,monstrosity,Large,13,26,,,,,,,neutral evil,,Monster Manual (SRD),16,13,13,7,11,8
+wraith,5,undead,Medium,13,67,fly,,,,,,neutral evil,,Monster Manual (SRD),6,16,16,12,14,15
+wyvern,6,dragon,Large,13,110,fly,,,,,,unaligned,,Monster Manual (SRD),19,10,16,5,12,6
+xorn,5,elemental,Medium,19,73,,,,,,,neutral,,Monster Manual (SRD),17,10,22,11,10,11
+xvart,1/8,humanoid,Small,13,7,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+xvart-warlock-of-raxivort,1,humanoid,Small,12,22,,,,,,,chaotic evil,,Volo's Guide to Monsters,,,,,,
+yagnoloth,11,fiend (yugoloth),Large,17,147,,,,,,,neutral evil,,Mordenkainen's Tome of Foes,,,,,,
+yan-c-bin,18,elemental,Huge,22,283,fly,,,,,,neutral evil,,Adventures (Princes of the Apocalypse),,,,,,
+yeenoghu,24,fiend (demon),Huge,20,333,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
+yellow-musk-creeper,2,plant,Medium,6,60,,,,,,,unaligned,,Adventures (Tomb of Annihilation),,,,,,
+yellow-musk-zombie,1/4,undead,Medium,9,33,,,,,,,unaligned,,Adventures (Tomb of Annihilation),,,,,,
+yeth-hound,4,fey,Large,14,51,fly,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+yeti,3,monstrosity,Large,12,51,,,,,,,chaotic evil,,Monster Manual (SRD),18,13,16,8,12,7
+yochlol,10,fiend (demon),Medium,15,136,,,,,,,chaotic evil,,Monster Manual,,,,,,
+young-black-dragon,7,dragon,Large,18,127,"fly, swim",,,,,,chaotic evil,,Monster Manual (SRD),19,14,17,12,11,15
+young-blue-dragon,9,dragon,Large,18,152,fly,,,,,,lawful evil,,Monster Manual (SRD),21,10,19,14,13,17
+young-brass-dragon,6,dragon,Large,17,110,fly,,,,,,chaotic good,,Monster Manual (SRD),19,10,17,12,11,15
+young-bronze-dragon,8,dragon,Large,18,142,"fly, swim",,,,,,lawful good,,Monster Manual (SRD),21,10,19,14,13,17
+young-copper-dragon,7,dragon,Large,17,119,fly,,,,,,chaotic good,,Monster Manual (SRD),19,12,17,16,13,15
+young-gold-dragon,10,dragon,Large,18,178,"fly, swim",,,,,,lawful good,,Monster Manual (SRD),23,14,21,16,13,20
+young-green-dragon,8,dragon,Large,18,136,"fly, swim",,,,,,lawful evil,,Monster Manual (SRD),19,12,17,16,13,15
+young-kruthik,1/8,monstrosity,Small,16,9,,,,,,,unaligned,,Mordenkainen's Tome of Foes,,,,,,
+young-red-dragon,10,dragon,Large,18,178,fly,,,,,,chaotic evil,,Monster Manual (SRD),23,10,21,14,11,19
+young-red-shadow-dragon,13,dragon,Large,18,178,fly,,,,,,chaotic evil,,Monster Manual,,,,,,
+young-remorhaz,5,monstrosity,Large,14,93,,,,,,,unaligned,,Monster Manual,,,,,,
+young-silver-dragon,9,dragon,Large,18,168,fly,,,,,,lawful good,,Monster Manual (SRD),23,10,21,14,11,19
+young-white-dragon,6,dragon,Large,17,133,"fly, swim",,,,,,chaotic evil,,Monster Manual (SRD),18,10,18,6,11,12
+yuan-ti-abomination,7,monstrosity,Large,15,127,,,,,,,neutral evil,,Monster Manual (BR),19,16,17,17,15,18
+yuan-ti-anathema,12,monstrosity,Huge,16,189,swim,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+yuan-ti-broodguard,2,humanoid,Medium,14,45,,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+yuan-ti-malison,3,monstrosity,Medium,12,66,,,,,,,neutral evil,,Monster Manual (BR),16,14,13,14,12,16
+yuan-ti-mind-whisperer,4,monstrosity,Medium,14,71,,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+yuan-ti-nightmare-speaker,4,monstrosity,Medium,14,71,,,,,,,neutral evil,,Volo's Guide to Monsters,16,14,13,14,12,16
+yuan-ti-pit-master,5,monstrosity,Medium,14,88,,,,,,,neutral evil,,Volo's Guide to Monsters,,,,,,
+yuan-ti-pureblood,1,humanoid,Medium,11,40,,,,,,,neutral evil,,Monster Manual (BR),11,12,11,13,12,14
+zaratan,22,elemental,Gargantuan,21,307,swim,,,,,,neutral,,Mordenkainen's Tome of Foes,,,,,,
+zariel,26,fiend (devil),Large,21,580,fly,,,,,,lawful evil,Legendary,Mordenkainen's Tome of Foes,27,24,28,26,27,30
+zombie,1/4,undead,Medium,8,22,,,,,,,neutral evil,,Monster Manual (SRD),13,6,16,3,6,5
+zuggtmoy,23,fiend (demon),Large,18,304,,,,,,,chaotic evil,,Mordenkainen's Tome of Foes,,,,,,
